@@ -8,3 +8,6 @@
 /build
 /captures
 .externalNativeBuild
+.cxx
+/app/.cxx/
+/app/.cxx/cmake/

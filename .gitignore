@@ -49,3 +49,5 @@
 /ios/
 /cmake-build-*
 /3rdpart/ZLToolKit/cmake-build-mq/
+/Android/app/.cxx/
+/Android/app/.cxx/cmake/
