@@ -1,0 +1,51 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.d
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+#*.dylib
+#*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.lib
+
+# Executables
+#*.exe
+*.out
+*.app
+/X64/
+
+
+*.DS_Store
+
+/cmake-build-debug/
+/cmake-build-release/
+/linux/
+/.vs/
+/.vscode/
+/.idea/
+/c_wrapper/.idea/
+/release/
+/out/
+/Android/.idea/
+/Android/app/src/main/cpp/libs_export/
+/3rdpart/media-server/.idea/
+/3rdpart/media-server/.idea/
+/build/
+/3rdpart/media-server/.idea/
+/ios/
+/cmake-build-*
+/3rdpart/ZLToolKit/cmake-build-mq/

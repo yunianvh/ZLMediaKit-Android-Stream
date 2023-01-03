@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\Git\Android\ZLM\ZLMediaKit\Android\app\.cxx\cmake\debug\arm64-v8a'
+ninja: no work to do.

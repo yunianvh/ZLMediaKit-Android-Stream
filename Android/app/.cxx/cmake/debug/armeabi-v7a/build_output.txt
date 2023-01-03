@@ -1,0 +1,253 @@
+CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
+  D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)
+  CMakeLists.txt:1 (project)
+
+
+Check for working C compiler: D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe
+CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+
+Check for working C compiler: D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works
+Detecting C compiler ABI info
+CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+
+Detecting C compiler ABI info - done
+Detecting C compile features
+CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+
+CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+
+CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+
+Detecting C compile features - done
+Check for working CXX compiler: D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe
+CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+
+Check for working CXX compiler: D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works
+Detecting CXX compiler ABI info
+CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+
+Detecting CXX compiler ABI info - done
+Detecting CXX compile features
+CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+
+CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+
+CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+
+CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+
+
+Detecting CXX compile features - done
+缂栬瘧绫诲瀷: Debug
+Git version is master f5755a1/2023-01-02T12:04:06+08:00 2023-01-03T09:29:31
+CMake Warning at D:\Git\Android\ZLM\ZLMediaKit\Android\app\src\main\cpp\..\..\..\..\..\CMakeLists.txt:362 (message):
+  openssl 鏈壘鍒�, rtmp 灏嗕笉鏀寔 flash 鎾斁鍣�,
+  https/wss/rtsps/rtmps/webrtc 涔熷皢澶辨晥
+
+
+Performing Test HAVE_MYSQL_OPT_EMBEDDED_CONNECTION
+CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:3 (project)
+
+
+Performing Test HAVE_MYSQL_OPT_EMBEDDED_CONNECTION - Failed
+MySQL not found.
+ENABLE_MP4 defined
+Performing Test HAVE_MMSG_HDR
+CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:3 (project)
+
+
+Performing Test HAVE_MMSG_HDR - Success
+Looking for sendmmsg
+CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:3 (project)
+
+
+Looking for sendmmsg - found
+Looking for recvmmsg
+CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:3 (project)
+
+
+Looking for recvmmsg - found
+set_file_group D:/Git/Android/ZLM/ZLMediaKit/3rdpart/ZLToolKit/src 78
+set_file_group D:/Git/Android/ZLM/ZLMediaKit/src 231
+srt 鍔熻兘宸插紑鍚�
+Performing Test COMPILER_HAS_HIDDEN_VISIBILITY
+CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:3 (project)
+
+
+Performing Test COMPILER_HAS_HIDDEN_VISIBILITY - Success
+Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY
+CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:3 (project)
+
+
+Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY - Success
+Performing Test COMPILER_HAS_DEPRECATED_ATTR
+CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
+  An old version of CMake is being used that cannot automatically detect
+  compiler attributes.  Compiler identification is being bypassed.  Some
+  values may be wrong or missing.  Update to CMake 3.19 or newer to use
+  CMake's built-in compiler identification.
+Call Stack (most recent call first):
+  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:3 (project)
+
+
+Performing Test COMPILER_HAS_DEPRECATED_ATTR - Success
+add c api tester: h264_media_server
+add c api tester: httpclient
+add c api tester: pusher
+add c api tester: server
+add c api tester: websocket
+Configuring done

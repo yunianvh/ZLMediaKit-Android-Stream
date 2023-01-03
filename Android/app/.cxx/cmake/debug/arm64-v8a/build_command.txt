@@ -1,0 +1,27 @@
+                Executable : D:\Android\sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HD:\Git\Android\ZLM\ZLMediaKit\Android\app\src\main\cpp
+-DCMAKE_CXX_FLAGS=-std=c++11 -frtti -fexceptions
+-DCMAKE_FIND_ROOT_PATH=D:\Git\Android\ZLM\ZLMediaKit\Android\app\.cxx\cmake\debug\prefab\arm64-v8a\prefab
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_TOOLCHAIN_FILE=D:\Android\sdk\ndk\25.1.8937393\build\cmake\android.toolchain.cmake
+-DANDROID_ABI=arm64-v8a
+-DANDROID_NDK=D:\Android\sdk\ndk\25.1.8937393
+-DANDROID_PLATFORM=android-24
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DCMAKE_ANDROID_NDK=D:\Android\sdk\ndk\25.1.8937393
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\Git\Android\ZLM\ZLMediaKit\Android\app\build\intermediates\cmake\debug\obj\arm64-v8a
+-DCMAKE_MAKE_PROGRAM=D:\Android\sdk\cmake\3.10.2.4988404\bin\ninja.exe
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=24
+-DENABLE_API=on
+-DENABLE_API_STATIC_LIB=on
+-DENABLE_TESTS=off
+-DENABLE_PLAYER=off
+-DENABLE_SERVER_LIB=on
+-BD:\Git\Android\ZLM\ZLMediaKit\Android\app\.cxx\cmake\debug\arm64-v8a
+-GNinja
+jvmArgs : 
+
+Build command args:

@@ -1,0 +1,63 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+
+android {
+    compileSdkVersion 29
+    buildToolsVersion '28.0.3'
+    ndkVersion '25.1.8937393'
+    defaultConfig {
+        applicationId "com.zlmediakit.demo"
+        minSdkVersion 24
+        targetSdkVersion 33
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        externalNativeBuild {
+            externalNativeBuild {
+                cmake {
+                    cppFlags "-std=c++11 -frtti -fexceptions"
+                    arguments "-DENABLE_API=on", "-DENABLE_API_STATIC_LIB=on", "-DENABLE_TESTS=off", "-DENABLE_PLAYER=off", "-DENABLE_SERVER_LIB=on"
+                }
+            }
+//            ndk {
+//                abiFilters "arm64-v8a" //, "armeabi-v7a"
+//            }
+            compileOptions {
+                sourceCompatibility JavaVersion.VERSION_1_8
+                targetCompatibility JavaVersion.VERSION_1_8
+            }
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    externalNativeBuild {
+        cmake {
+            path "src/main/cpp/CMakeLists.txt"
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.0.2'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.3'
+    //https://github.com/pedroSG94/RTSP-Server
+    implementation 'com.github.pedroSG94:RTSP-Server:1.1.8'
+    implementation 'com.github.pedroSG94.rtmp-rtsp-stream-client-java:rtplibrary:2.1.8'
+    //https://github.com/liangjingkanji/Net
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.0" // 协程(版本自定)
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.0'
+    implementation 'com.squareup.okhttp3:okhttp:4.10.0' // 要求OkHttp4以上
+    implementation 'com.github.liangjingkanji:Net:3.5.3'
+    implementation 'com.google.code.gson:gson:2.8.6'
+
+    implementation 'com.github.getActivity:GsonFactory:5.2'
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    //Serialize
+    implementation 'com.github.liangjingkanji:Serialize:1.2.3'
+}

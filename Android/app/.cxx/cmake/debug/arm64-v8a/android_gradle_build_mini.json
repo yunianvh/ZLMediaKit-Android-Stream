@@ -1,0 +1,132 @@
+{
+  "buildFiles": [
+    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "D:\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\android.toolchain.cmake",
+    "D:\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\android-legacy.toolchain.cmake",
+    "D:\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\platforms.cmake",
+    "D:\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\compiler_id.cmake",
+    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\CMakeLists.txt",
+    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\version.h.ini",
+    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\cmake\\FindJEMALLOC.cmake",
+    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\cmake\\FindMYSQL.cmake",
+    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\cmake\\FindX264.cmake",
+    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\cmake\\FindFAAC.cmake",
+    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\CMakeLists.txt",
+    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\CMakeLists.txt",
+    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\CMakeLists.txt",
+    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\CMakeLists.txt",
+    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\tests\\CMakeLists.txt",
+    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\server\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "srt-Debug-arm64-v8a": {
+      "artifactName": "srt",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a\" srt",
+      "abi": "arm64-v8a",
+      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\arm64-v8a\\libsrt.a",
+      "runtimeFiles": []
+    },
+    "mov-Debug-arm64-v8a": {
+      "artifactName": "mov",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a\" mov",
+      "abi": "arm64-v8a",
+      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\arm64-v8a\\libmov.a",
+      "runtimeFiles": []
+    },
+    "api_tester_httpclient-Debug-arm64-v8a": {
+      "artifactName": "api_tester_httpclient",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a\" api_tester_httpclient",
+      "abi": "arm64-v8a",
+      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\release\\android\\Debug\\api_tester_httpclient",
+      "runtimeFiles": []
+    },
+    "jsoncpp-Debug-arm64-v8a": {
+      "artifactName": "jsoncpp",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a\" jsoncpp",
+      "abi": "arm64-v8a",
+      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\arm64-v8a\\libjsoncpp.a",
+      "runtimeFiles": []
+    },
+    "api_tester_pusher-Debug-arm64-v8a": {
+      "artifactName": "api_tester_pusher",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a\" api_tester_pusher",
+      "abi": "arm64-v8a",
+      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\release\\android\\Debug\\api_tester_pusher",
+      "runtimeFiles": []
+    },
+    "mpeg-Debug-arm64-v8a": {
+      "artifactName": "mpeg",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a\" mpeg",
+      "abi": "arm64-v8a",
+      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\arm64-v8a\\libmpeg.a",
+      "runtimeFiles": []
+    },
+    "zlmediakit_jni-Debug-arm64-v8a": {
+      "artifactName": "zlmediakit_jni",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a\" zlmediakit_jni",
+      "abi": "arm64-v8a",
+      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\arm64-v8a\\libzlmediakit_jni.so",
+      "runtimeFiles": []
+    },
+    "api_tester_websocket-Debug-arm64-v8a": {
+      "artifactName": "api_tester_websocket",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a\" api_tester_websocket",
+      "abi": "arm64-v8a",
+      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\release\\android\\Debug\\api_tester_websocket",
+      "runtimeFiles": []
+    },
+    "api_tester_h264_media_server-Debug-arm64-v8a": {
+      "artifactName": "api_tester_h264_media_server",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a\" api_tester_h264_media_server",
+      "abi": "arm64-v8a",
+      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\release\\android\\Debug\\api_tester_h264_media_server",
+      "runtimeFiles": []
+    },
+    "zlmediakit-Debug-arm64-v8a": {
+      "artifactName": "zlmediakit",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a\" zlmediakit",
+      "abi": "arm64-v8a",
+      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\arm64-v8a\\libzlmediakit.a",
+      "runtimeFiles": []
+    },
+    "flv-Debug-arm64-v8a": {
+      "artifactName": "flv",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a\" flv",
+      "abi": "arm64-v8a",
+      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\arm64-v8a\\libflv.a",
+      "runtimeFiles": []
+    },
+    "zltoolkit-Debug-arm64-v8a": {
+      "artifactName": "zltoolkit",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a\" zltoolkit",
+      "abi": "arm64-v8a",
+      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\arm64-v8a\\libzltoolkit.a",
+      "runtimeFiles": []
+    },
+    "MediaServer-Debug-arm64-v8a": {
+      "artifactName": "MediaServer",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a\" MediaServer",
+      "abi": "arm64-v8a",
+      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\arm64-v8a\\libMediaServer.a",
+      "runtimeFiles": []
+    },
+    "mk_api-Debug-arm64-v8a": {
+      "artifactName": "mk_api",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a\" mk_api",
+      "abi": "arm64-v8a",
+      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\arm64-v8a\\libmk_api.a",
+      "runtimeFiles": []
+    },
+    "api_tester_server-Debug-arm64-v8a": {
+      "artifactName": "api_tester_server",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a\" api_tester_server",
+      "abi": "arm64-v8a",
+      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\release\\android\\Debug\\api_tester_server",
+      "runtimeFiles": []
+    }
+  }
+}
