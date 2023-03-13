@@ -4,7 +4,6 @@ import android.content.pm.PackageManager;
 import android.os.Bundle;
 import android.os.Environment;
 import android.util.Log;
-import android.view.View;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -13,6 +12,7 @@ import androidx.core.app.ActivityCompat;
 import com.drake.net.NetConfig;
 import com.stream.CameraUtil;
 import com.stream.http.NetUtil;
+import com.stream.util.FLogUtil;
 import com.zlmediakit.jni.ZLMediaKit;
 
 import java.io.File;
@@ -31,27 +31,41 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         String sd_dir = Environment.getExternalStoragePublicDirectory("").toString();
+        //初始化日志工具
+        FLogUtil.INSTANCE.init(this,true);
         //初始化net
         NetConfig.INSTANCE.setApp(this);
-        NetUtil.Companion.getInstance().init();
-
-        findViewById(R.id.sample_text).setOnClickListener(new View.OnClickListener() {
+        NetUtil.Companion.getInstance().init(new NetUtil.ZlmListener() {
             @Override
-            public void onClick(View view) {
-                File f = new File(sd_dir + "/aaaa/");
-                if (!f.exists()) f.mkdirs();
-                Log.e("CameraUtil", "onClick  录制地址: " + sd_dir + "/aaaa/");
-                CameraUtil.getInstance().start(f.getAbsolutePath());
+            public void onPushStatus(boolean status) {
+                Log.e(TAG, "onRecordStatue  推流状态: "+status );
+            }
+
+            @Override
+            public void onRecordStatus(boolean status) {
+                Log.e(TAG, "onRecordStatue  录制状态: "+status );
             }
         });
-        findViewById(R.id.btn_record).setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                File f = new File(getExternalFilesDir((String)null).getAbsolutePath()+"/avideo");
-                if (!f.exists()) f.mkdirs();
-                Log.e("CameraUtil", "onClick  录制地址: " + f.getAbsolutePath());
-                NetUtil.Companion.getInstance().startRecord(f.getAbsolutePath());
-            }
+        findViewById(R.id.sample_text).setOnClickListener(view -> {
+            File f = new File(sd_dir + "/aaaa/");
+            if (!f.exists()) f.mkdirs();
+            Log.e("CameraUtil", "onClick  录制地址: " + sd_dir + "/aaaa/");
+            CameraUtil.getInstance().start(f.getAbsolutePath());
+        });
+        findViewById(R.id.btn_record).setOnClickListener(view -> {
+            File f = new File(getExternalFilesDir((String)null).getAbsolutePath()+"/video");
+            if (!f.exists()) f.mkdirs();
+            Log.e("CameraUtil", "onClick  录制地址: " + f.getAbsolutePath());
+            NetUtil.Companion.getInstance().startRecord(f.getAbsolutePath());
+        });
+        findViewById(R.id.btn_record_stop).setOnClickListener(view -> {
+            NetUtil.Companion.getInstance().stopRecord();
+        });
+        findViewById(R.id.btn_push_start).setOnClickListener(view -> {
+            NetUtil.Companion.getInstance().startPush("rtmp://119.23.154.45:11006/live/36147_58009");
+        });
+        findViewById(R.id.btn_push_stop).setOnClickListener(view -> {
+            NetUtil.Companion.getInstance().stopPush();
         });
 
         boolean permissionSuccess = true;

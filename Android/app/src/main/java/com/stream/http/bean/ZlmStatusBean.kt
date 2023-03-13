@@ -1,4 +1,4 @@
-package com.stream.http
+package com.stream.http.bean
 
 data class ZlmStatusBean(
     val code: Int = 0,

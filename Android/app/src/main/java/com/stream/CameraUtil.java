@@ -7,6 +7,7 @@ import android.util.Log;
 import com.pedro.rtsp.utils.ConnectCheckerRtsp;
 import com.rtspserver.RtspServerCamera1;
 import com.stream.http.NetUtil;
+import com.stream.util.FLogUtil;
 import com.zlmediakit.jni.ZLMediaKit;
 
 /**
@@ -81,7 +82,7 @@ public class CameraUtil implements ConnectCheckerRtsp {
 
     @Override
     public void onConnectionFailedRtsp(String s) {
-        Log.e(TAG, "onConnectionFailedRtsp: " + s);
+        FLogUtil.INSTANCE.e(TAG, "onConnectionFailedRtsp: " + s);
     }
 
     @Override
@@ -92,12 +93,12 @@ public class CameraUtil implements ConnectCheckerRtsp {
     @Override
     public void onConnectionSuccessRtsp() {
         //初始化rtsp成功后获取rtsp的流地址
-        Log.e(TAG, "onConnectionSuccessRtsp: " + serverRtsp.getEndPointConnection());
+        FLogUtil.INSTANCE.e(TAG, "onConnectionSuccessRtsp: " + serverRtsp.getEndPointConnection());
     }
 
     @Override
     public void onDisconnectRtsp() {
-        Log.e(TAG, "onDisconnectRtsp");
+        FLogUtil.INSTANCE.e(TAG, "onDisconnectRtsp");
     }
 
     @Override

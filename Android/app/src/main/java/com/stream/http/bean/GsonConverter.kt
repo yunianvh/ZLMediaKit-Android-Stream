@@ -1,8 +1,5 @@
-package com.stream.http
+package com.stream.http.bean
 
-/**
- * @author haimian on 2021/11/29 0029
- */
 import com.drake.net.convert.JSONConvert
 import com.hjq.gson.factory.GsonFactory
 import java.lang.reflect.Type

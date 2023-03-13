@@ -1,4 +1,4 @@
-package com.stream.http
+package com.stream.http.bean
 
 /**
  * Created by 玉念聿辉.
