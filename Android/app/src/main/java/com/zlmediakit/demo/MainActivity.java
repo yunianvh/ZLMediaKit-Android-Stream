@@ -10,6 +10,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
 
 import com.drake.net.NetConfig;
+import com.rust.sip.GB28181.GB28181CallBack;
+import com.rust.sip.GB28181.GB28181Client;
 import com.stream.CameraUtil;
 import com.stream.http.NetUtil;
 import com.stream.util.FLogUtil;
@@ -32,18 +34,18 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         String sd_dir = Environment.getExternalStoragePublicDirectory("").toString();
         //初始化日志工具
-        FLogUtil.INSTANCE.init(this,true);
+        FLogUtil.INSTANCE.init(this, true);
         //初始化net
         NetConfig.INSTANCE.setApp(this);
         NetUtil.Companion.getInstance().init(new NetUtil.ZlmListener() {
             @Override
             public void onPushStatus(boolean status) {
-                Log.e(TAG, "onRecordStatue  推流状态: "+status );
+                Log.e(TAG, "onRecordStatue  推流状态: " + status);
             }
 
             @Override
             public void onRecordStatus(boolean status) {
-                Log.e(TAG, "onRecordStatue  录制状态: "+status );
+                Log.e(TAG, "onRecordStatue  录制状态: " + status);
             }
         });
         findViewById(R.id.sample_text).setOnClickListener(view -> {
@@ -53,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
             CameraUtil.getInstance().start(f.getAbsolutePath());
         });
         findViewById(R.id.btn_record).setOnClickListener(view -> {
-            File f = new File(getExternalFilesDir((String)null).getAbsolutePath()+"/video");
+            File f = new File(getExternalFilesDir((String) null).getAbsolutePath() + "/video");
             if (!f.exists()) f.mkdirs();
             Log.e("CameraUtil", "onClick  录制地址: " + f.getAbsolutePath());
             NetUtil.Companion.getInstance().startRecord(f.getAbsolutePath());
@@ -66,6 +68,24 @@ public class MainActivity extends AppCompatActivity {
         });
         findViewById(R.id.btn_push_stop).setOnClickListener(view -> {
             NetUtil.Companion.getInstance().stopPush();
+        });
+        findViewById(R.id.btn_init_gb28181).setOnClickListener(view -> {
+            GB28181Client.getInstance().GB28181Init();
+            GB28181Client.getInstance().GB28181_Start();
+        });
+
+        GB28181Client.getInstance().setGB28181CallBack(new GB28181CallBack() {
+            @Override
+            public void onStartRtp(String ssrc, String url, int port, int is_udp) {
+                Log.e(TAG, "onStartRtp  开始RTP推流: " + ssrc);
+                NetUtil.Companion.getInstance().startSendRtp(ssrc, url, port, is_udp);
+            }
+
+            @Override
+            public void onStopRtp(String ssrc) {
+                Log.e(TAG, "onStopRtp  关闭RTP推流: " + ssrc);
+                NetUtil.Companion.getInstance().stopSendRtp(ssrc);
+            }
         });
 
         boolean permissionSuccess = true;
