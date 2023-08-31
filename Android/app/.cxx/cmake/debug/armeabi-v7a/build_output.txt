@@ -17,8 +17,8 @@ CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.tool
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
   D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 Check for working C compiler: D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works
@@ -30,8 +30,8 @@ CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.tool
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
   D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 Detecting C compiler ABI info - done
@@ -43,8 +43,8 @@ CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.tool
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
   D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
@@ -54,8 +54,8 @@ CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.tool
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
   D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
@@ -65,8 +65,8 @@ CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.tool
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
   D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 Detecting C compile features - done
@@ -78,8 +78,8 @@ CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.tool
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
   D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 Check for working CXX compiler: D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works
@@ -91,8 +91,8 @@ CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.tool
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
   D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 Detecting CXX compiler ABI info - done
@@ -104,8 +104,8 @@ CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.tool
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
   D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
@@ -115,8 +115,8 @@ CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.tool
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
   D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
@@ -126,8 +126,8 @@ CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.tool
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
   D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
@@ -137,14 +137,14 @@ CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.tool
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
   D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 Detecting CXX compile features - done
 缂栬瘧绫诲瀷: Debug
-Git version is master f5755a1/2023-01-02T12:04:06+08:00 2023-01-03T09:29:31
-CMake Warning at D:\Git\Android\ZLM\ZLMediaKit\Android\app\src\main\cpp\..\..\..\..\..\CMakeLists.txt:362 (message):
+Git version is main 488f290/2023-03-13T12:01:19+08:00 2023-06-16T16:50:37
+CMake Warning at D:\Git\Android\ZLMediaKit-Android-Stream\Android\app\src\main\cpp\..\..\..\..\..\CMakeLists.txt:362 (message):
   openssl 鏈壘鍒�, rtmp 灏嗕笉鏀寔 flash 鎾斁鍣�,
   https/wss/rtsps/rtmps/webrtc 涔熷皢澶辨晥
 
@@ -157,8 +157,8 @@ CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.tool
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
   D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:3 (project)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:3 (project)
 
 
 Performing Test HAVE_MYSQL_OPT_EMBEDDED_CONNECTION - Failed
@@ -172,8 +172,8 @@ CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.tool
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
   D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:3 (project)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:3 (project)
 
 
 Performing Test HAVE_MMSG_HDR - Success
@@ -185,8 +185,8 @@ CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.tool
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
   D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:3 (project)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:3 (project)
 
 
 Looking for sendmmsg - found
@@ -198,13 +198,13 @@ CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.tool
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
   D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:3 (project)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:3 (project)
 
 
 Looking for recvmmsg - found
-set_file_group D:/Git/Android/ZLM/ZLMediaKit/3rdpart/ZLToolKit/src 78
-set_file_group D:/Git/Android/ZLM/ZLMediaKit/src 231
+set_file_group D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/ZLToolKit/src 78
+set_file_group D:/Git/Android/ZLMediaKit-Android-Stream/src 231
 srt 鍔熻兘宸插紑鍚�
 Performing Test COMPILER_HAS_HIDDEN_VISIBILITY
 CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):
@@ -214,8 +214,8 @@ CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.tool
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
   D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:3 (project)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:3 (project)
 
 
 Performing Test COMPILER_HAS_HIDDEN_VISIBILITY - Success
@@ -227,8 +227,8 @@ CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.tool
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
   D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:3 (project)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:3 (project)
 
 
 Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY - Success
@@ -240,8 +240,8 @@ CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.tool
   CMake's built-in compiler identification.
 Call Stack (most recent call first):
   D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:3 (project)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeTmp/CMakeLists.txt:3 (project)
 
 
 Performing Test COMPILER_HAS_DEPRECATED_ATTR - Success

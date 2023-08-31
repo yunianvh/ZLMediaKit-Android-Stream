@@ -1,4 +1,4 @@
-# Install script for directory: D:/Git/Android/ZLM/ZLMediaKit/Android/app/src/main/cpp
+# Install script for directory: D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("D:/Git/Android/ZLM/ZLMediaKit/Android/app/src/main/cpp/libs_export/x86/binary/cmake_install.cmake")
+  include("D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary/cmake_install.cmake")
 
 endif()
 
@@ -51,5 +51,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/x86/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/x86/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

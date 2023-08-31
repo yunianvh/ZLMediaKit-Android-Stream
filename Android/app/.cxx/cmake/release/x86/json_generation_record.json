@@ -2,55 +2,1039 @@
   {
     "level": "INFO",
     "message": "Start JSON generation. Platform version: 24 min SDK version: x86",
-    "file": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
     "tag": "release|x86"
   },
   {
     "level": "INFO",
     "message": "No CMake version was specified in build.gradle. Using default version 3.10.2.",
-    "file": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
     "tag": "release|x86"
   },
   {
     "level": "INFO",
     "message": "Trying to locate CMake in local SDK repository.",
-    "file": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
     "tag": "release|x86"
   },
   {
     "level": "INFO",
     "message": "- CMake found in SDK at \u0027D:\\Android\\sdk\\cmake\\3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
-    "file": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
     "tag": "release|x86"
   },
   {
     "level": "INFO",
     "message": "CMake \u00273.18.1\u0027 found in SDK did not match requested version \u00273.10.2\u0027.",
-    "file": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
     "tag": "release|x86"
   },
   {
     "level": "INFO",
     "message": "CMake \u00273.22.1\u0027 found in SDK did not match requested version \u00273.10.2\u0027.",
-    "file": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
     "tag": "release|x86"
   },
   {
     "level": "INFO",
     "message": "CMake \u00273.6.0\u0027 found in SDK did not match requested version \u00273.10.2\u0027.",
-    "file": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
     "tag": "release|x86"
   },
   {
     "level": "INFO",
-    "message": "JSON \u0027D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\release\\x86\\android_gradle_build.json\u0027 was up-to-date",
-    "file": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "message": "rebuilding JSON D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\release\\x86\\android_gradle_build.json due to:",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- a dependent build file changed",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\Git\\Android\\ZLM\\ZLMediaKit\\server\\CMakeLists.txt",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\Git\\Android\\ZLM\\ZLMediaKit\\cmake\\FindMYSQL.cmake",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\Git\\Android\\ZLM\\ZLMediaKit\\version.h.ini",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\CMakeLists.txt",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\CMakeLists.txt",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\CMakeLists.txt",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\Git\\Android\\ZLM\\ZLMediaKit\\cmake\\FindJEMALLOC.cmake",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\Git\\Android\\ZLM\\ZLMediaKit\\CMakeLists.txt",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\CMakeLists.txt",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\Git\\Android\\ZLM\\ZLMediaKit\\cmake\\FindFAAC.cmake",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\tests\\CMakeLists.txt",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\Git\\Android\\ZLM\\ZLMediaKit\\cmake\\FindX264.cmake",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\release\\x86\u0027",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\release\\x86\u0027",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe\narguments : \n-HD:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\n-DCMAKE_CXX_FLAGS\u003d-std\u003dc++11 -frtti -fexceptions\n-DCMAKE_FIND_ROOT_PATH\u003dD:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\release\\prefab\\x86\\prefab\n-DCMAKE_BUILD_TYPE\u003dRelease\n-DCMAKE_TOOLCHAIN_FILE\u003dD:\\Android\\sdk\\ndk\\25.1.8937393\\build\\cmake\\android.toolchain.cmake\n-DANDROID_ABI\u003dx86\n-DANDROID_NDK\u003dD:\\Android\\sdk\\ndk\\25.1.8937393\n-DANDROID_PLATFORM\u003dandroid-24\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86\n-DCMAKE_ANDROID_NDK\u003dD:\\Android\\sdk\\ndk\\25.1.8937393\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\build\\intermediates\\cmake\\release\\obj\\x86\n-DCMAKE_MAKE_PROGRAM\u003dD:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d24\n-DENABLE_API\u003don\n-DENABLE_API_STATIC_LIB\u003don\n-DENABLE_TESTS\u003doff\n-DENABLE_PLAYER\u003doff\n-DENABLE_SERVER_LIB\u003don\n-BD:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\release\\x86\n-GNinja\njvmArgs : \n\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp\",\n  \"buildDirectory\": \"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/release/x86\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_CXX_FLAGS\\u003d-std\\u003dc++11 -frtti -fexceptions\",\n    \"-DCMAKE_FIND_ROOT_PATH\\u003dD:\\\\Git\\\\Android\\\\ZLMediaKit-Android-Stream\\\\Android\\\\app\\\\.cxx\\\\cmake\\\\release\\\\prefab\\\\x86\\\\prefab\",\n    \"-DCMAKE_BUILD_TYPE\\u003dRelease\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003dD:\\\\Android\\\\sdk\\\\ndk\\\\25.1.8937393\\\\build\\\\cmake\\\\android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003dx86\",\n    \"-DANDROID_NDK\\u003dD:\\\\Android\\\\sdk\\\\ndk\\\\25.1.8937393\",\n    \"-DANDROID_PLATFORM\\u003dandroid-24\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003dx86\",\n    \"-DCMAKE_ANDROID_NDK\\u003dD:\\\\Android\\\\sdk\\\\ndk\\\\25.1.8937393\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003dD:\\\\Git\\\\Android\\\\ZLMediaKit-Android-Stream\\\\Android\\\\app\\\\build\\\\intermediates\\\\cmake\\\\release\\\\obj\\\\x86\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003dD:\\\\Android\\\\sdk\\\\cmake\\\\3.10.2.4988404\\\\bin\\\\ninja.exe\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d24\",\n    \"-DENABLE_API\\u003don\",\n    \"-DENABLE_API_STATIC_LIB\\u003don\",\n    \"-DENABLE_TESTS\\u003doff\",\n    \"-DENABLE_PLAYER\\u003doff\",\n    \"-DENABLE_SERVER_LIB\\u003don\"\n  ]\n}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):\\n  An old version of CMake is being used that cannot automatically detect\\n  compiler attributes.  Compiler identification is being bypassed.  Some\\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\\n  CMake\u0027s built-in compiler identification.\\nCall Stack (most recent call first):\\n  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)\\n  D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)\\n  CMakeLists.txt:1 (project)\\n\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "WARN",
+    "message": "CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):\r\n  An old version of CMake is being used that cannot automatically detect\r\n  compiler attributes.  Compiler identification is being bypassed.  Some\r\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\r\n  CMake\u0027s built-in compiler identification.\r\nCall Stack (most recent call first):\r\n  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)\r\n  D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)\r\n  CMakeLists.txt:1 (project)\r\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):\\n  An old version of CMake is being used that cannot automatically detect\\n  compiler attributes.  Compiler identification is being bypassed.  Some\\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\\n  CMake\u0027s built-in compiler identification.\\nCall Stack (most recent call first):\\n  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)\\n  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/release/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\\n  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/release/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\\n\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "WARN",
+    "message": "CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):\r\n  An old version of CMake is being used that cannot automatically detect\r\n  compiler attributes.  Compiler identification is being bypassed.  Some\r\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\r\n  CMake\u0027s built-in compiler identification.\r\nCall Stack (most recent call first):\r\n  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)\r\n  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/release/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\r\n  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/release/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)\r\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info - done",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":96,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":126,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":155,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features - done",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":184,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":211,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info - done",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":237,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":262,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":287,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":311,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features - done\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features - done",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":334,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"缂栬瘧绫诲瀷: Release\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "缂栬瘧绫诲瀷: Release",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Git version is main 488f290/2023-03-13T12:01:19+08:00 2023-06-16T16:48:05\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Git version is main 488f290/2023-03-13T12:01:19+08:00 2023-06-16T16:48:05",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Warning at ../../../../../CMakeLists.txt:362 (message):\\n  openssl 鏈壘鍒�, rtmp 灏嗕笉鏀寔 flash 鎾斁鍣�,\\n  https/wss/rtsps/rtmps/webrtc 涔熷皢澶辨晥\\n\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "WARN",
+    "message": "CMake Warning at D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\..\\..\\..\\..\\..\\CMakeLists.txt:362 (message):\r\n  openssl 鏈壘鍒�, rtmp 灏嗕笉鏀寔 flash 鎾斁鍣�,\r\n  https/wss/rtsps/rtmps/webrtc 涔熷皢澶辨晥\r\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Performing Test HAVE_MYSQL_OPT_EMBEDDED_CONNECTION\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Performing Test HAVE_MYSQL_OPT_EMBEDDED_CONNECTION",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):\\n  An old version of CMake is being used that cannot automatically detect\\n  compiler attributes.  Compiler identification is being bypassed.  Some\\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\\n  CMake\u0027s built-in compiler identification.\\nCall Stack (most recent call first):\\n  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)\\n  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/release/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\\n  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/release/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:3 (project)\\n\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "WARN",
+    "message": "CMake Warning at D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:415 (message):\r\n  An old version of CMake is being used that cannot automatically detect\r\n  compiler attributes.  Compiler identification is being bypassed.  Some\r\n  values may be wrong or missing.  Update to CMake 3.19 or newer to use\r\n  CMake\u0027s built-in compiler identification.\r\nCall Stack (most recent call first):\r\n  D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)\r\n  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/release/x86/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)\r\n  D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/release/x86/CMakeFiles/CMakeTmp/CMakeLists.txt:3 (project)\r\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":356,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Performing Test HAVE_MYSQL_OPT_EMBEDDED_CONNECTION - Failed\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Performing Test HAVE_MYSQL_OPT_EMBEDDED_CONNECTION - Failed",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"MySQL not found.\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "MySQL not found.",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":377,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"ENABLE_MP4 defined\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "ENABLE_MP4 defined",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Performing Test HAVE_MMSG_HDR\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Performing Test HAVE_MMSG_HDR",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":398,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Performing Test HAVE_MMSG_HDR - Success\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Performing Test HAVE_MMSG_HDR - Success",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for sendmmsg\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for sendmmsg",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":418,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for sendmmsg - found\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for sendmmsg - found",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for recvmmsg\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for recvmmsg",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":438,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Looking for recvmmsg - found\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Looking for recvmmsg - found",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"set_file_group D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/ZLToolKit/src 78\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "set_file_group D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/ZLToolKit/src 78",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":456,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"set_file_group D:/Git/Android/ZLMediaKit-Android-Stream/src 231\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "set_file_group D:/Git/Android/ZLMediaKit-Android-Stream/src 231",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":474,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"srt 鍔熻兘宸插紑鍚�\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "srt 鍔熻兘宸插紑鍚�",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":492,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Performing Test COMPILER_HAS_HIDDEN_VISIBILITY\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Performing Test COMPILER_HAS_HIDDEN_VISIBILITY",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":509,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Performing Test COMPILER_HAS_HIDDEN_VISIBILITY - Success\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Performing Test COMPILER_HAS_HIDDEN_VISIBILITY - Success",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":525,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY - Success\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY - Success",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Performing Test COMPILER_HAS_DEPRECATED_ATTR\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Performing Test COMPILER_HAS_DEPRECATED_ATTR",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":541,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Performing Test COMPILER_HAS_DEPRECATED_ATTR - Success\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Performing Test COMPILER_HAS_DEPRECATED_ATTR - Success",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":556,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"add c api tester: h264_media_server\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "add c api tester: h264_media_server",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"add c api tester: httpclient\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "add c api tester: httpclient",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"add c api tester: pusher\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "add c api tester: pusher",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"add c api tester: server\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "add c api tester: server",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"add c api tester: websocket\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "add c api tester: websocket",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":571,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":912,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":924,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":937,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":950,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":962,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":974,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":987,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring done",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"compute\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":125,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":250,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":375,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":500,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":625,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":750,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":875,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Generating done",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"cmakeInputs\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystem.cmake.in\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-C.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCXXCompiler.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-CXX.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompilerABI.c\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCXXCompiler.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindGit.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindOpenSSL.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPkgConfig.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckCXXSourceCompiles.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakePushCheckState.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckCXXSymbolExists.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckSymbolExists.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckStructHasMember.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckCSourceCompiles.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckCXXSourceCompiles.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckSymbolExists.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeConfigurableFile.in\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeConfigurableFile.in\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/GenerateExportHeader.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckCXXCompilerFlag.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckCXXSourceCompiles.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake\",\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/exportheader.cmake.in\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake\",\"D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake\",\"D:/Android/Sdk/ndk/25.1.8937393/build/cmake/platforms.cmake\",\"D:/Android/Sdk/ndk/25.1.8937393/build/cmake/compiler_id.cmake\",\"D:/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake\",\"../../../../../CMakeLists.txt\",\"../../../../../version.h.ini\",\"../../../../../cmake/FindJEMALLOC.cmake\",\"../../../../../cmake/FindMYSQL.cmake\",\"../../../../../cmake/FindX264.cmake\",\"../../../../../cmake/FindFAAC.cmake\",\"../../../../../3rdpart/CMakeLists.txt\",\"../../../../../src/CMakeLists.txt\",\"../../../../../srt/CMakeLists.txt\",\"../../../../../api/CMakeLists.txt\",\"../../../../../api/tests/CMakeLists.txt\",\"../../../../../server/CMakeLists.txt\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\"../../../.cxx/cmake/release/x86/CMakeFiles/3.10.2/CMakeSystem.cmake\",\"../../../.cxx/cmake/release/x86/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../../../.cxx/cmake/release/x86/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\",\"../../../.cxx/cmake/release/x86/CMakeFiles/feature_tests.c\",\"../../../.cxx/cmake/release/x86/CMakeFiles/feature_tests.c\",\"../../../.cxx/cmake/release/x86/CMakeFiles/feature_tests.c\",\"../../../.cxx/cmake/release/x86/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../../../.cxx/cmake/release/x86/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/cmake/release/x86/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/cmake/release/x86/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/cmake/release/x86/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/cmake/release/x86/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\"]}],\"cmakeRootDirectory\":\"D:/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp\",\"type\":\"reply\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"codemodel\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"configurations\":[{\"name\":\"Release\",\"projects\":[{\"buildDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/release/x86\",\"name\":\"ZLMediaKit\",\"sourceDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp\",\"targets\":[{\"artifacts\":[\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/libzlmediakit_jni.so\"],\"buildDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/release/x86\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -std\u003dc++11 -frtti -fexceptions -O3 -DNDEBUG  -fPIC   -std\u003dgnu++11\",\"defines\":[\"zlmediakit_jni_EXPORTS\"],\"includePath\":[{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/../../../../../src\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/../../../../../srt\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/../../../../../webrtc\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/../../../../../server\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/../../../../../3rdpart\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/../../../../../3rdpart/media-server\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/../../../../../3rdpart/ZLToolKit/src\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"native-lib.cpp\"]}],\"fullName\":\"libzlmediakit_jni.so\",\"linkFlags\":\"-static-libstdc++ -Wl,--build-id\u003dsha1 -Wl,--no-rosegment -Wl,--fatal-warnings -Wl,--gc-sections -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"-Wl,--start-group -llog -lz D:\\\\Git\\\\Android\\\\ZLMediaKit-Android-Stream\\\\Android\\\\app\\\\src\\\\main\\\\cpp\\\\libs_export\\\\x86\\\\libMediaServer.a -Wl,--end-group D:\\\\Git\\\\Android\\\\ZLMediaKit-Android-Stream\\\\Android\\\\app\\\\src\\\\main\\\\cpp\\\\libs_export\\\\x86\\\\libsrt.a D:\\\\Git\\\\Android\\\\ZLMediaKit-Android-Stream\\\\Android\\\\app\\\\src\\\\main\\\\cpp\\\\libs_export\\\\x86\\\\libzlmediakit.a D:\\\\Git\\\\Android\\\\ZLMediaKit-Android-Stream\\\\Android\\\\app\\\\src\\\\main\\\\cpp\\\\libs_export\\\\x86\\\\libjsoncpp.a D:\\\\Git\\\\Android\\\\ZLMediaKit-Android-Stream\\\\Android\\\\app\\\\src\\\\main\\\\cpp\\\\libs_export\\\\x86\\\\libflv.a D:\\\\Git\\\\Android\\\\ZLMediaKit-Android-Stream\\\\Android\\\\app\\\\src\\\\main\\\\cpp\\\\libs_export\\\\x86\\\\libmov.a D:\\\\Git\\\\Android\\\\ZLMediaKit-Android-Stream\\\\Android\\\\app\\\\src\\\\main\\\\cpp\\\\libs_export\\\\x86\\\\libmpeg.a D:\\\\Git\\\\Android\\\\ZLMediaKit-Android-Stream\\\\Android\\\\app\\\\src\\\\main\\\\cpp\\\\libs_export\\\\x86\\\\libzltoolkit.a -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"zlmediakit_jni\",\"sourceDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp\",\"sysroot\":\"D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"},{\"artifacts\":[\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/libjsoncpp.a\"],\"buildDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary/3rdpart\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -std\u003dc++11 -frtti -fexceptions -O3 -DNDEBUG  -fPIC   -fPIC -Wall -Wextra -Wno-unused-function -Wno-unused-parameter -Wno-unused-variable -Wno-error\u003dextra -Wno-error\u003dmissing-field-initializers -Wno-error\u003dtype-limits -std\u003dgnu++11\",\"includePath\":[{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/jsoncpp/include\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"jsoncpp/src/lib_json/json_reader.cpp\",\"jsoncpp/src/lib_json/json_value.cpp\",\"jsoncpp/src/lib_json/json_writer.cpp\"]}],\"fullName\":\"libjsoncpp.a\",\"linkerLanguage\":\"CXX\",\"name\":\"jsoncpp\",\"sourceDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart\",\"sysroot\":\"D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"STATIC_LIBRARY\"},{\"artifacts\":[\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/libmov.a\"],\"buildDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary/3rdpart\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIC   -fPIC -Wall -Wextra -Wno-unused-function -Wno-unused-parameter -Wno-unused-variable -Wno-error\u003dextra -Wno-error\u003dmissing-field-initializers -Wno-error\u003dtype-limits\",\"defines\":[\"ENABLE_MP4\"],\"includePath\":[{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libmov/include\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"media-server/libmov/source/fmp4-reader.c\",\"media-server/libmov/source/fmp4-writer.c\",\"media-server/libmov/source/mov-av1.c\",\"media-server/libmov/source/mov-avc1.c\",\"media-server/libmov/source/mov-dinf.c\",\"media-server/libmov/source/mov-elst.c\",\"media-server/libmov/source/mov-esds.c\",\"media-server/libmov/source/mov-ftyp.c\",\"media-server/libmov/source/mov-hdlr.c\",\"media-server/libmov/source/mov-hdr.c\",\"media-server/libmov/source/mov-hvcc.c\",\"media-server/libmov/source/mov-iods.c\",\"media-server/libmov/source/mov-leva.c\",\"media-server/libmov/source/mov-mdhd.c\",\"media-server/libmov/source/mov-mehd.c\",\"media-server/libmov/source/mov-mfhd.c\",\"media-server/libmov/source/mov-minf.c\",\"media-server/libmov/source/mov-mvhd.c\",\"media-server/libmov/source/mov-opus.c\",\"media-server/libmov/source/mov-reader.c\",\"media-server/libmov/source/mov-sidx.c\",\"media-server/libmov/source/mov-stco.c\",\"media-server/libmov/source/mov-stsc.c\",\"media-server/libmov/source/mov-stsd.c\",\"media-server/libmov/source/mov-stss.c\",\"media-server/libmov/source/mov-stsz.c\",\"media-server/libmov/source/mov-stts.c\",\"media-server/libmov/source/mov-tag.c\",\"media-server/libmov/source/mov-tfdt.c\",\"media-server/libmov/source/mov-tfhd.c\",\"media-server/libmov/source/mov-tfra.c\",\"media-server/libmov/source/mov-tkhd.c\",\"media-server/libmov/source/mov-track.c\",\"media-server/libmov/source/mov-trex.c\",\"media-server/libmov/source/mov-trun.c\",\"media-server/libmov/source/mov-tx3g.c\",\"media-server/libmov/source/mov-udta.c\",\"media-server/libmov/source/mov-vpcc.c\",\"media-server/libmov/source/mov-writer.c\"]}],\"fullName\":\"libmov.a\",\"linkerLanguage\":\"C\",\"name\":\"mov\",\"sourceDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart\",\"sysroot\":\"D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"STATIC_LIBRARY\"},{\"artifacts\":[\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/libzltoolkit.a\"],\"buildDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary/3rdpart\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -std\u003dc++11 -frtti -fexceptions -O3 -DNDEBUG  -fPIC   -fPIC -Wall -Wextra -Wno-unused-function -Wno-unused-parameter -Wno-unused-variable -Wno-error\u003dextra -Wno-error\u003dmissing-field-initializers -Wno-error\u003dtype-limits -std\u003dgnu++11\",\"defines\":[\"HAVE_MMSG_HDR\",\"HAVE_RECVMMSG_API\",\"HAVE_SENDMMSG_API\"],\"includePath\":[{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/ZLToolKit/src\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"ZLToolKit/src/Network/Buffer.cpp\",\"ZLToolKit/src/Network/BufferSock.cpp\",\"ZLToolKit/src/Network/Server.cpp\",\"ZLToolKit/src/Network/Session.cpp\",\"ZLToolKit/src/Network/Socket.cpp\",\"ZLToolKit/src/Network/TcpClient.cpp\",\"ZLToolKit/src/Network/TcpServer.cpp\",\"ZLToolKit/src/Network/UdpServer.cpp\",\"ZLToolKit/src/Network/sockutil.cpp\",\"ZLToolKit/src/Poller/EventPoller.cpp\",\"ZLToolKit/src/Poller/Pipe.cpp\",\"ZLToolKit/src/Poller/PipeWrap.cpp\",\"ZLToolKit/src/Poller/SelectWrap.cpp\",\"ZLToolKit/src/Poller/Timer.cpp\",\"ZLToolKit/src/Thread/TaskExecutor.cpp\",\"ZLToolKit/src/Thread/WorkThreadPool.cpp\",\"ZLToolKit/src/Util/CMD.cpp\",\"ZLToolKit/src/Util/File.cpp\",\"ZLToolKit/src/Util/MD5.cpp\",\"ZLToolKit/src/Util/NoticeCenter.cpp\",\"ZLToolKit/src/Util/SHA1.cpp\",\"ZLToolKit/src/Util/SSLBox.cpp\",\"ZLToolKit/src/Util/SSLUtil.cpp\",\"ZLToolKit/src/Util/SqlPool.cpp\",\"ZLToolKit/src/Util/base64.cpp\",\"ZLToolKit/src/Util/local_time.cpp\",\"ZLToolKit/src/Util/logger.cpp\",\"ZLToolKit/src/Util/mini.cpp\",\"ZLToolKit/src/Util/strptime_win.cpp\",\"ZLToolKit/src/Util/util.cpp\",\"ZLToolKit/src/Util/uv_errno.cpp\"]},{\"isGenerated\":false,\"sources\":[\"ZLToolKit/src/Network/Buffer.h\",\"ZLToolKit/src/Network/BufferSock.h\",\"ZLToolKit/src/Network/Server.h\",\"ZLToolKit/src/Network/Session.h\",\"ZLToolKit/src/Network/Socket.h\",\"ZLToolKit/src/Network/TcpClient.h\",\"ZLToolKit/src/Network/TcpServer.h\",\"ZLToolKit/src/Network/UdpServer.h\",\"ZLToolKit/src/Network/sockutil.h\",\"ZLToolKit/src/Poller/EventPoller.h\",\"ZLToolKit/src/Poller/Pipe.h\",\"ZLToolKit/src/Poller/PipeWrap.h\",\"ZLToolKit/src/Poller/SelectWrap.h\",\"ZLToolKit/src/Poller/Timer.h\",\"ZLToolKit/src/Thread/TaskExecutor.h\",\"ZLToolKit/src/Thread/TaskQueue.h\",\"ZLToolKit/src/Thread/ThreadPool.h\",\"ZLToolKit/src/Thread/WorkThreadPool.h\",\"ZLToolKit/src/Thread/semaphore.h\",\"ZLToolKit/src/Thread/threadgroup.h\",\"ZLToolKit/src/Util/CMD.h\",\"ZLToolKit/src/Util/File.h\",\"ZLToolKit/src/Util/List.h\",\"ZLToolKit/src/Util/MD5.h\",\"ZLToolKit/src/Util/NoticeCenter.h\",\"ZLToolKit/src/Util/ResourcePool.h\",\"ZLToolKit/src/Util/RingBuffer.h\",\"ZLToolKit/src/Util/SHA1.h\",\"ZLToolKit/src/Util/SSLBox.h\",\"ZLToolKit/src/Util/SSLUtil.h\",\"ZLToolKit/src/Util/SpeedStatistic.h\",\"ZLToolKit/src/Util/SqlConnection.h\",\"ZLToolKit/src/Util/SqlPool.h\",\"ZLToolKit/src/Util/TimeTicker.h\",\"ZLToolKit/src/Util/base64.h\",\"ZLToolKit/src/Util/function_traits.h\",\"ZLToolKit/src/Util/local_time.h\",\"ZLToolKit/src/Util/logger.h\",\"ZLToolKit/src/Util/mini.h\",\"ZLToolKit/src/Util/onceToken.h\",\"ZLToolKit/src/Util/strptime_win.h\",\"ZLToolKit/src/Util/util.h\",\"ZLToolKit/src/Util/uv_errno.h\",\"ZLToolKit/src/win32/getopt.h\",\"ZLToolKit/src/win32/tailor.h\"]},{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIC   -fPIC -Wall -Wextra -Wno-unused-function -Wno-unused-parameter -Wno-unused-variable -Wno-error\u003dextra -Wno-error\u003dmissing-field-initializers -Wno-error\u003dtype-limits\",\"defines\":[\"HAVE_MMSG_HDR\",\"HAVE_RECVMMSG_API\",\"HAVE_SENDMMSG_API\"],\"includePath\":[{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/ZLToolKit/src\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"ZLToolKit/src/win32/getopt.c\"]}],\"fullName\":\"libzltoolkit.a\",\"linkerLanguage\":\"CXX\",\"name\":\"zltoolkit\",\"sourceDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart\",\"sysroot\":\"D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"STATIC_LIBRARY\"},{\"artifacts\":[\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/libmpeg.a\"],\"buildDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary/3rdpart\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIC   -fPIC -Wall -Wextra -Wno-unused-function -Wno-unused-parameter -Wno-unused-variable -Wno-error\u003dextra -Wno-error\u003dmissing-field-initializers -Wno-error\u003dtype-limits -DMPEG_H26X_VERIFY -DMPEG_ZERO_PAYLOAD_LENGTH -DMPEG_DAHUA_AAC_FROM_G711\",\"includePath\":[{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libmpeg/include\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"media-server/libmpeg/source/mpeg-crc32.c\",\"media-server/libmpeg/source/mpeg-element-descriptor.c\",\"media-server/libmpeg/source/mpeg-muxer.c\",\"media-server/libmpeg/source/mpeg-pack-header.c\",\"media-server/libmpeg/source/mpeg-packet.c\",\"media-server/libmpeg/source/mpeg-pat.c\",\"media-server/libmpeg/source/mpeg-pes.c\",\"media-server/libmpeg/source/mpeg-pmt.c\",\"media-server/libmpeg/source/mpeg-ps-dec.c\",\"media-server/libmpeg/source/mpeg-ps-enc.c\",\"media-server/libmpeg/source/mpeg-psd.c\",\"media-server/libmpeg/source/mpeg-psm.c\",\"media-server/libmpeg/source/mpeg-sdt.c\",\"media-server/libmpeg/source/mpeg-system-header.c\",\"media-server/libmpeg/source/mpeg-ts-dec.c\",\"media-server/libmpeg/source/mpeg-ts-enc.c\",\"media-server/libmpeg/source/mpeg-ts-h264.c\",\"media-server/libmpeg/source/mpeg-ts-h265.c\",\"media-server/libmpeg/source/mpeg-util.c\"]}],\"fullName\":\"libmpeg.a\",\"linkerLanguage\":\"C\",\"name\":\"mpeg\",\"sourceDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart\",\"sysroot\":\"D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"STATIC_LIBRARY\"},{\"artifacts\":[\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/libzlmediakit.a\"],\"buildDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary/src\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIC   -fPIC -Wall -Wextra -Wno-unused-function -Wno-unused-parameter -Wno-unused-variable -Wno-error\u003dextra -Wno-error\u003dmissing-field-initializers -Wno-error\u003dtype-limits\",\"defines\":[\"ENABLE_HLS\",\"ENABLE_MP4\",\"ENABLE_RTPPROXY\",\"ENABLE_VERSION\",\"HAVE_MMSG_HDR\",\"HAVE_RECVMMSG_API\",\"HAVE_SENDMMSG_API\"],\"includePath\":[{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/src\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/jsoncpp/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libflv/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libmov/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libmpeg/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/ZLToolKit/src\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"Extension/SPSParser.c\"]},{\"isGenerated\":false,\"sources\":[\"Codec/AACEncoder.h\",\"Codec/H264Encoder.h\",\"Codec/Transcode.h\",\"Common/Device.h\",\"Common/MediaSink.h\",\"Common/MediaSource.h\",\"Common/MultiMediaSourceMuxer.h\",\"Common/PacketCache.h\",\"Common/Parser.h\",\"Common/Stamp.h\",\"Common/config.h\",\"Common/macros.h\",\"Extension/AAC.h\",\"Extension/AACRtmp.h\",\"Extension/AACRtp.h\",\"Extension/CommonRtmp.h\",\"Extension/CommonRtp.h\",\"Extension/Factory.h\",\"Extension/Frame.h\",\"Extension/G711.h\",\"Extension/G711Rtp.h\",\"Extension/H264.h\",\"Extension/H264Rtmp.h\",\"Extension/H264Rtp.h\",\"Extension/H265.h\",\"Extension/H265Rtmp.h\",\"Extension/H265Rtp.h\",\"Extension/JPEG.h\",\"Extension/JPEGRtp.h\",\"Extension/L16.h\",\"Extension/Opus.h\",\"Extension/SPSParser.h\",\"Extension/Track.h\",\"FMP4/FMP4MediaSource.h\",\"FMP4/FMP4MediaSourceMuxer.h\",\"Http/HlsParser.h\",\"Http/HlsPlayer.h\",\"Http/HttpBody.h\",\"Http/HttpChunkedSplitter.h\",\"Http/HttpClient.h\",\"Http/HttpClientImp.h\",\"Http/HttpConst.h\",\"Http/HttpCookie.h\",\"Http/HttpCookieManager.h\",\"Http/HttpDownloader.h\",\"Http/HttpFileManager.h\",\"Http/HttpRequestSplitter.h\",\"Http/HttpRequester.h\",\"Http/HttpSession.h\",\"Http/HttpTSPlayer.h\",\"Http/TsPlayer.h\",\"Http/TsPlayerImp.h\",\"Http/WebSocketClient.h\",\"Http/WebSocketSession.h\",\"Http/WebSocketSplitter.h\",\"Http/strCoding.h\",\"Player/MediaPlayer.h\",\"Player/PlayerBase.h\",\"Player/PlayerProxy.h\",\"Pusher/MediaPusher.h\",\"Pusher/PusherBase.h\",\"Pusher/PusherProxy.h\",\"Record/HlsMaker.h\",\"Record/HlsMakerImp.h\",\"Record/HlsMediaSource.h\",\"Record/HlsRecorder.h\",\"Record/MP4.h\",\"Record/MP4Demuxer.h\",\"Record/MP4Muxer.h\",\"Record/MP4Reader.h\",\"Record/MP4Recorder.h\",\"Record/MPEG.h\",\"Record/Recorder.h\",\"Rtcp/Rtcp.h\",\"Rtcp/RtcpContext.h\",\"Rtcp/RtcpFCI.h\",\"Rtmp/FlvMuxer.h\",\"Rtmp/Rtmp.h\",\"Rtmp/RtmpCodec.h\",\"Rtmp/RtmpDemuxer.h\",\"Rtmp/RtmpMediaSource.h\",\"Rtmp/RtmpMediaSourceImp.h\",\"Rtmp/RtmpMediaSourceMuxer.h\",\"Rtmp/RtmpMuxer.h\",\"Rtmp/RtmpPlayer.h\",\"Rtmp/RtmpPlayerImp.h\",\"Rtmp/RtmpProtocol.h\",\"Rtmp/RtmpPusher.h\",\"Rtmp/RtmpSession.h\",\"Rtmp/amf.h\",\"Rtmp/utils.h\",\"Rtp/Decoder.h\",\"Rtp/GB28181Process.h\",\"Rtp/PSDecoder.h\",\"Rtp/PSEncoder.h\",\"Rtp/ProcessInterface.h\",\"Rtp/RawEncoder.h\",\"Rtp/RtpCache.h\",\"Rtp/RtpProcess.h\",\"Rtp/RtpSelector.h\",\"Rtp/RtpSender.h\",\"Rtp/RtpServer.h\",\"Rtp/RtpSession.h\",\"Rtp/RtpSplitter.h\",\"Rtp/TSDecoder.h\",\"Rtsp/RtpCodec.h\",\"Rtsp/RtpMultiCaster.h\",\"Rtsp/RtpReceiver.h\",\"Rtsp/Rtsp.h\",\"Rtsp/RtspDemuxer.h\",\"Rtsp/RtspMediaSource.h\",\"Rtsp/RtspMediaSourceImp.h\",\"Rtsp/RtspMediaSourceMuxer.h\",\"Rtsp/RtspMuxer.h\",\"Rtsp/RtspPlayer.h\",\"Rtsp/RtspPlayerImp.h\",\"Rtsp/RtspPusher.h\",\"Rtsp/RtspSession.h\",\"Rtsp/RtspSplitter.h\",\"Rtsp/UDPServer.h\",\"Shell/ShellCMD.h\",\"Shell/ShellSession.h\",\"TS/TSMediaSource.h\",\"TS/TSMediaSourceMuxer.h\"]},{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -std\u003dc++11 -frtti -fexceptions -O3 -DNDEBUG  -fPIC   -fPIC -Wall -Wextra -Wno-unused-function -Wno-unused-parameter -Wno-unused-variable -Wno-error\u003dextra -Wno-error\u003dmissing-field-initializers -Wno-error\u003dtype-limits -std\u003dgnu++11\",\"defines\":[\"ENABLE_HLS\",\"ENABLE_MP4\",\"ENABLE_RTPPROXY\",\"ENABLE_VERSION\",\"HAVE_MMSG_HDR\",\"HAVE_RECVMMSG_API\",\"HAVE_SENDMMSG_API\"],\"includePath\":[{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/src\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/jsoncpp/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libflv/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libmov/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libmpeg/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/ZLToolKit/src\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"Codec/AACEncoder.cpp\",\"Codec/H264Encoder.cpp\",\"Codec/Transcode.cpp\",\"Common/Device.cpp\",\"Common/MediaSink.cpp\",\"Common/MediaSource.cpp\",\"Common/MultiMediaSourceMuxer.cpp\",\"Common/Parser.cpp\",\"Common/Stamp.cpp\",\"Common/config.cpp\",\"Common/macros.cpp\",\"Extension/AAC.cpp\",\"Extension/AACRtmp.cpp\",\"Extension/AACRtp.cpp\",\"Extension/CommonRtmp.cpp\",\"Extension/CommonRtp.cpp\",\"Extension/Factory.cpp\",\"Extension/Frame.cpp\",\"Extension/G711.cpp\",\"Extension/G711Rtp.cpp\",\"Extension/H264.cpp\",\"Extension/H264Rtmp.cpp\",\"Extension/H264Rtp.cpp\",\"Extension/H265.cpp\",\"Extension/H265Rtmp.cpp\",\"Extension/H265Rtp.cpp\",\"Extension/JPEG.cpp\",\"Extension/JPEGRtp.cpp\",\"Extension/L16.cpp\",\"Extension/Opus.cpp\",\"Http/HlsParser.cpp\",\"Http/HlsPlayer.cpp\",\"Http/HttpBody.cpp\",\"Http/HttpChunkedSplitter.cpp\",\"Http/HttpClient.cpp\",\"Http/HttpClientImp.cpp\",\"Http/HttpConst.cpp\",\"Http/HttpCookie.cpp\",\"Http/HttpCookieManager.cpp\",\"Http/HttpDownloader.cpp\",\"Http/HttpFileManager.cpp\",\"Http/HttpRequestSplitter.cpp\",\"Http/HttpRequester.cpp\",\"Http/HttpSession.cpp\",\"Http/HttpTSPlayer.cpp\",\"Http/TsPlayer.cpp\",\"Http/TsplayerImp.cpp\",\"Http/WebSocketSplitter.cpp\",\"Http/strCoding.cpp\",\"Player/MediaPlayer.cpp\",\"Player/PlayerBase.cpp\",\"Player/PlayerProxy.cpp\",\"Pusher/MediaPusher.cpp\",\"Pusher/PusherBase.cpp\",\"Pusher/PusherProxy.cpp\",\"Record/HlsMaker.cpp\",\"Record/HlsMakerImp.cpp\",\"Record/HlsMediaSource.cpp\",\"Record/MP4.cpp\",\"Record/MP4Demuxer.cpp\",\"Record/MP4Muxer.cpp\",\"Record/MP4Reader.cpp\",\"Record/MP4Recorder.cpp\",\"Record/MPEG.cpp\",\"Record/Recorder.cpp\",\"Rtcp/Rtcp.cpp\",\"Rtcp/RtcpContext.cpp\",\"Rtcp/RtcpFCI.cpp\",\"Rtmp/FlvMuxer.cpp\",\"Rtmp/Rtmp.cpp\",\"Rtmp/RtmpDemuxer.cpp\",\"Rtmp/RtmpMediaSourceImp.cpp\",\"Rtmp/RtmpMuxer.cpp\",\"Rtmp/RtmpPlayer.cpp\",\"Rtmp/RtmpProtocol.cpp\",\"Rtmp/RtmpPusher.cpp\",\"Rtmp/RtmpSession.cpp\",\"Rtmp/amf.cpp\",\"Rtmp/utils.cpp\",\"Rtp/Decoder.cpp\",\"Rtp/GB28181Process.cpp\",\"Rtp/PSDecoder.cpp\",\"Rtp/PSEncoder.cpp\",\"Rtp/RawEncoder.cpp\",\"Rtp/RtpCache.cpp\",\"Rtp/RtpProcess.cpp\",\"Rtp/RtpSelector.cpp\",\"Rtp/RtpSender.cpp\",\"Rtp/RtpServer.cpp\",\"Rtp/RtpSession.cpp\",\"Rtp/RtpSplitter.cpp\",\"Rtp/TSDecoder.cpp\",\"Rtsp/RtpCodec.cpp\",\"Rtsp/RtpMultiCaster.cpp\",\"Rtsp/RtpReceiver.cpp\",\"Rtsp/Rtsp.cpp\",\"Rtsp/RtspDemuxer.cpp\",\"Rtsp/RtspMediaSourceImp.cpp\",\"Rtsp/RtspMuxer.cpp\",\"Rtsp/RtspPlayer.cpp\",\"Rtsp/RtspPusher.cpp\",\"Rtsp/RtspSession.cpp\",\"Rtsp/RtspSplitter.cpp\",\"Rtsp/UDPServer.cpp\",\"Shell/ShellSession.cpp\"]}],\"fullName\":\"libzlmediakit.a\",\"linkerLanguage\":\"CXX\",\"name\":\"zlmediakit\",\"sourceDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/src\",\"sysroot\":\"D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"STATIC_LIBRARY\"},{\"artifacts\":[\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/libflv.a\"],\"buildDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary/3rdpart\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIC   -fPIC -Wall -Wextra -Wno-unused-function -Wno-unused-parameter -Wno-unused-variable -Wno-error\u003dextra -Wno-error\u003dmissing-field-initializers -Wno-error\u003dtype-limits\",\"includePath\":[{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libflv/include\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"media-server/libflv/source/amf0.c\",\"media-server/libflv/source/amf3.c\",\"media-server/libflv/source/aom-av1.c\",\"media-server/libflv/source/flv-demuxer-script.c\",\"media-server/libflv/source/flv-demuxer.c\",\"media-server/libflv/source/flv-header.c\",\"media-server/libflv/source/flv-muxer.c\",\"media-server/libflv/source/flv-parser.c\",\"media-server/libflv/source/flv-reader.c\",\"media-server/libflv/source/flv-writer.c\",\"media-server/libflv/source/hevc-annexbtomp4.c\",\"media-server/libflv/source/hevc-mp4toannexb.c\",\"media-server/libflv/source/mp3-header.c\",\"media-server/libflv/source/mpeg4-aac-asc.c\",\"media-server/libflv/source/mpeg4-aac.c\",\"media-server/libflv/source/mpeg4-annexbtomp4.c\",\"media-server/libflv/source/mpeg4-avc.c\",\"media-server/libflv/source/mpeg4-hevc.c\",\"media-server/libflv/source/mpeg4-mp4toannexb.c\",\"media-server/libflv/source/opus-head.c\",\"media-server/libflv/source/riff-acm.c\",\"media-server/libflv/source/webm-vpx.c\"]}],\"fullName\":\"libflv.a\",\"linkerLanguage\":\"C\",\"name\":\"flv\",\"sourceDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart\",\"sysroot\":\"D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"STATIC_LIBRARY\"},{\"artifacts\":[\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/libsrt.a\"],\"buildDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary/srt\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -std\u003dc++11 -frtti -fexceptions -O3 -DNDEBUG  -fPIC   -fPIC -Wall -Wextra -Wno-unused-function -Wno-unused-parameter -Wno-unused-variable -Wno-error\u003dextra -Wno-error\u003dmissing-field-initializers -Wno-error\u003dtype-limits -std\u003dgnu++11\",\"defines\":[\"ENABLE_HLS\",\"ENABLE_MP4\",\"ENABLE_RTPPROXY\",\"ENABLE_VERSION\",\"HAVE_MMSG_HDR\",\"HAVE_RECVMMSG_API\",\"HAVE_SENDMMSG_API\"],\"includePath\":[{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/srt\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/srt/..\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/src\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/jsoncpp/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libflv/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libmov/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libmpeg/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/ZLToolKit/src\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"Ack.cpp\",\"HSExt.cpp\",\"NackContext.cpp\",\"Packet.cpp\",\"PacketQueue.cpp\",\"PacketSendQueue.cpp\",\"SrtSession.cpp\",\"SrtTransport.cpp\",\"SrtTransportImp.cpp\",\"Statistic.cpp\"]},{\"isGenerated\":false,\"sources\":[\"Ack.hpp\",\"Common.hpp\",\"HSExt.hpp\",\"NackContext.hpp\",\"Packet.hpp\",\"PacketQueue.hpp\",\"PacketSendQueue.hpp\",\"SrtSession.hpp\",\"SrtTransport.hpp\",\"SrtTransportImp.hpp\",\"Statistic.hpp\"]}],\"fullName\":\"libsrt.a\",\"linkerLanguage\":\"CXX\",\"name\":\"srt\",\"sourceDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/srt\",\"sysroot\":\"D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"STATIC_LIBRARY\"},{\"artifacts\":[\"D:/Git/Android/ZLMediaKit-Android-Stream/release/android/Release/api_tester_websocket\"],\"buildDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary/api/tests\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE   -fPIC -Wall -Wextra -Wno-unused-function -Wno-unused-parameter -Wno-unused-variable -Wno-error\u003dextra -Wno-error\u003dmissing-field-initializers -Wno-error\u003dtype-limits\",\"defines\":[\"ENABLE_HLS\",\"ENABLE_MP4\",\"ENABLE_RTPPROXY\",\"ENABLE_VERSION\",\"HAVE_MMSG_HDR\",\"HAVE_RECVMMSG_API\",\"HAVE_SENDMMSG_API\"],\"includePath\":[{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary/api\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/api/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/jsoncpp/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libflv/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libmov/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libmpeg/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/ZLToolKit/src\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/src\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/srt\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/srt/..\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"websocket.c\"]}],\"fullName\":\"api_tester_websocket\",\"linkFlags\":\"-static-libstdc++ -Wl,--build-id\u003dsha1 -Wl,--no-rosegment -Wl,--fatal-warnings -Wl,--gc-sections -Wl,--no-undefined -Qunused-arguments -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -std\u003dc++11 -frtti -fexceptions -O3 -DNDEBUG\",\"linkLibraries\":\"..\\\\..\\\\..\\\\libmk_api.a -llog -Wl,--start-group ..\\\\..\\\\..\\\\libsrt.a ..\\\\..\\\\..\\\\libzlmediakit.a ..\\\\..\\\\..\\\\libjsoncpp.a ..\\\\..\\\\..\\\\libflv.a ..\\\\..\\\\..\\\\libmov.a ..\\\\..\\\\..\\\\libmpeg.a ..\\\\..\\\\..\\\\libzltoolkit.a -Wl,--end-group -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"api_tester_websocket\",\"sourceDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/api/tests\",\"sysroot\":\"D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/Git/Android/ZLMediaKit-Android-Stream/release/android/Release/api_tester_server\"],\"buildDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary/api/tests\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE   -fPIC -Wall -Wextra -Wno-unused-function -Wno-unused-parameter -Wno-unused-variable -Wno-error\u003dextra -Wno-error\u003dmissing-field-initializers -Wno-error\u003dtype-limits\",\"defines\":[\"ENABLE_HLS\",\"ENABLE_MP4\",\"ENABLE_RTPPROXY\",\"ENABLE_VERSION\",\"HAVE_MMSG_HDR\",\"HAVE_RECVMMSG_API\",\"HAVE_SENDMMSG_API\"],\"includePath\":[{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary/api\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/api/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/jsoncpp/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libflv/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libmov/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libmpeg/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/ZLToolKit/src\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/src\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/srt\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/srt/..\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"server.c\"]}],\"fullName\":\"api_tester_server\",\"linkFlags\":\"-static-libstdc++ -Wl,--build-id\u003dsha1 -Wl,--no-rosegment -Wl,--fatal-warnings -Wl,--gc-sections -Wl,--no-undefined -Qunused-arguments -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -std\u003dc++11 -frtti -fexceptions -O3 -DNDEBUG\",\"linkLibraries\":\"..\\\\..\\\\..\\\\libmk_api.a -llog -Wl,--start-group ..\\\\..\\\\..\\\\libsrt.a ..\\\\..\\\\..\\\\libzlmediakit.a ..\\\\..\\\\..\\\\libjsoncpp.a ..\\\\..\\\\..\\\\libflv.a ..\\\\..\\\\..\\\\libmov.a ..\\\\..\\\\..\\\\libmpeg.a ..\\\\..\\\\..\\\\libzltoolkit.a -Wl,--end-group -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"api_tester_server\",\"sourceDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/api/tests\",\"sysroot\":\"D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/Git/Android/ZLMediaKit-Android-Stream/release/android/Release/api_tester_pusher\"],\"buildDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary/api/tests\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE   -fPIC -Wall -Wextra -Wno-unused-function -Wno-unused-parameter -Wno-unused-variable -Wno-error\u003dextra -Wno-error\u003dmissing-field-initializers -Wno-error\u003dtype-limits\",\"defines\":[\"ENABLE_HLS\",\"ENABLE_MP4\",\"ENABLE_RTPPROXY\",\"ENABLE_VERSION\",\"HAVE_MMSG_HDR\",\"HAVE_RECVMMSG_API\",\"HAVE_SENDMMSG_API\"],\"includePath\":[{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary/api\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/api/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/jsoncpp/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libflv/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libmov/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libmpeg/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/ZLToolKit/src\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/src\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/srt\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/srt/..\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"pusher.c\"]}],\"fullName\":\"api_tester_pusher\",\"linkFlags\":\"-static-libstdc++ -Wl,--build-id\u003dsha1 -Wl,--no-rosegment -Wl,--fatal-warnings -Wl,--gc-sections -Wl,--no-undefined -Qunused-arguments -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -std\u003dc++11 -frtti -fexceptions -O3 -DNDEBUG\",\"linkLibraries\":\"..\\\\..\\\\..\\\\libmk_api.a -llog -Wl,--start-group ..\\\\..\\\\..\\\\libsrt.a ..\\\\..\\\\..\\\\libzlmediakit.a ..\\\\..\\\\..\\\\libjsoncpp.a ..\\\\..\\\\..\\\\libflv.a ..\\\\..\\\\..\\\\libmov.a ..\\\\..\\\\..\\\\libmpeg.a ..\\\\..\\\\..\\\\libzltoolkit.a -Wl,--end-group -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"api_tester_pusher\",\"sourceDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/api/tests\",\"sysroot\":\"D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/Git/Android/ZLMediaKit-Android-Stream/release/android/Release/api_tester_h264_media_server\"],\"buildDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary/api/tests\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE   -fPIC -Wall -Wextra -Wno-unused-function -Wno-unused-parameter -Wno-unused-variable -Wno-error\u003dextra -Wno-error\u003dmissing-field-initializers -Wno-error\u003dtype-limits\",\"defines\":[\"ENABLE_HLS\",\"ENABLE_MP4\",\"ENABLE_RTPPROXY\",\"ENABLE_VERSION\",\"HAVE_MMSG_HDR\",\"HAVE_RECVMMSG_API\",\"HAVE_SENDMMSG_API\"],\"includePath\":[{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary/api\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/api/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/jsoncpp/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libflv/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libmov/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libmpeg/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/ZLToolKit/src\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/src\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/srt\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/srt/..\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"h264_media_server.c\"]}],\"fullName\":\"api_tester_h264_media_server\",\"linkFlags\":\"-static-libstdc++ -Wl,--build-id\u003dsha1 -Wl,--no-rosegment -Wl,--fatal-warnings -Wl,--gc-sections -Wl,--no-undefined -Qunused-arguments -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -std\u003dc++11 -frtti -fexceptions -O3 -DNDEBUG\",\"linkLibraries\":\"..\\\\..\\\\..\\\\libmk_api.a -llog -Wl,--start-group ..\\\\..\\\\..\\\\libsrt.a ..\\\\..\\\\..\\\\libzlmediakit.a ..\\\\..\\\\..\\\\libjsoncpp.a ..\\\\..\\\\..\\\\libflv.a ..\\\\..\\\\..\\\\libmov.a ..\\\\..\\\\..\\\\libmpeg.a ..\\\\..\\\\..\\\\libzltoolkit.a -Wl,--end-group -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"api_tester_h264_media_server\",\"sourceDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/api/tests\",\"sysroot\":\"D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/libmk_api.a\"],\"buildDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary/api\",\"fileGroups\":[{\"isGenerated\":false,\"sources\":[\"include/mk_common.h\",\"include/mk_events.h\",\"include/mk_events_objects.h\",\"include/mk_frame.h\",\"include/mk_h264_splitter.h\",\"include/mk_httpclient.h\",\"include/mk_media.h\",\"include/mk_mediakit.h\",\"include/mk_player.h\",\"include/mk_proxyplayer.h\",\"include/mk_pusher.h\",\"include/mk_recorder.h\",\"include/mk_rtp_server.h\",\"include/mk_tcp.h\",\"include/mk_thread.h\",\"include/mk_track.h\",\"include/mk_transcode.h\",\"include/mk_util.h\",\"source/mk_tcp_private.h\"]},{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -std\u003dc++11 -frtti -fexceptions -O3 -DNDEBUG  -fPIC   -std\u003dgnu++11\",\"defines\":[\"ENABLE_HLS\",\"ENABLE_MP4\",\"ENABLE_RTPPROXY\",\"ENABLE_SRT\",\"ENABLE_VERSION\",\"HAVE_MMSG_HDR\",\"HAVE_RECVMMSG_API\",\"HAVE_SENDMMSG_API\",\"MediaKitApi_STATIC\"],\"includePath\":[{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary/api\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/api/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/jsoncpp/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libflv/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libmov/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libmpeg/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/ZLToolKit/src\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/src\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/srt\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/srt/..\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"source/mk_common.cpp\",\"source/mk_events.cpp\",\"source/mk_events_objects.cpp\",\"source/mk_frame.cpp\",\"source/mk_h264_splitter.cpp\",\"source/mk_httpclient.cpp\",\"source/mk_media.cpp\",\"source/mk_player.cpp\",\"source/mk_proxyplayer.cpp\",\"source/mk_pusher.cpp\",\"source/mk_recorder.cpp\",\"source/mk_rtp_server.cpp\",\"source/mk_tcp.cpp\",\"source/mk_thread.cpp\",\"source/mk_track.cpp\",\"source/mk_transcode.cpp\",\"source/mk_util.cpp\"]}],\"fullName\":\"libmk_api.a\",\"linkerLanguage\":\"CXX\",\"name\":\"mk_api\",\"sourceDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/api\",\"sysroot\":\"D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"STATIC_LIBRARY\"},{\"artifacts\":[\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/libMediaServer.a\"],\"buildDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary/server\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -std\u003dc++11 -frtti -fexceptions -O3 -DNDEBUG  -fPIC   -fPIC -Wall -Wextra -Wno-unused-function -Wno-unused-parameter -Wno-unused-variable -Wno-error\u003dextra -Wno-error\u003dmissing-field-initializers -Wno-error\u003dtype-limits -std\u003dgnu++11\",\"defines\":[\"DISABLE_MAIN\",\"ENABLE_HLS\",\"ENABLE_MP4\",\"ENABLE_RTPPROXY\",\"ENABLE_SRT\",\"ENABLE_VERSION\",\"HAVE_MMSG_HDR\",\"HAVE_RECVMMSG_API\",\"HAVE_SENDMMSG_API\"],\"includePath\":[{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/jsoncpp/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libflv/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libmov/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libmpeg/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/ZLToolKit/src\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/src\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/srt\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/srt/..\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"FFmpegSource.cpp\",\"Process.cpp\",\"System.cpp\",\"WebApi.cpp\",\"WebHook.cpp\",\"main.cpp\"]},{\"isGenerated\":false,\"sources\":[\"FFmpegSource.h\",\"Process.h\",\"System.h\",\"WebApi.h\",\"WebHook.h\"]}],\"fullName\":\"libMediaServer.a\",\"linkerLanguage\":\"CXX\",\"name\":\"MediaServer\",\"sourceDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/server\",\"sysroot\":\"D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"STATIC_LIBRARY\"},{\"artifacts\":[\"D:/Git/Android/ZLMediaKit-Android-Stream/release/android/Release/api_tester_httpclient\"],\"buildDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary/api/tests\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -O3 -DNDEBUG  -fPIE   -fPIC -Wall -Wextra -Wno-unused-function -Wno-unused-parameter -Wno-unused-variable -Wno-error\u003dextra -Wno-error\u003dmissing-field-initializers -Wno-error\u003dtype-limits\",\"defines\":[\"ENABLE_HLS\",\"ENABLE_MP4\",\"ENABLE_RTPPROXY\",\"ENABLE_VERSION\",\"HAVE_MMSG_HDR\",\"HAVE_RECVMMSG_API\",\"HAVE_SENDMMSG_API\"],\"includePath\":[{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/libs_export/x86/binary/api\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/api/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/jsoncpp/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libflv/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libmov/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/media-server/libmpeg/include\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/3rdpart/ZLToolKit/src\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/src\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/srt\"},{\"path\":\"D:/Git/Android/ZLMediaKit-Android-Stream/srt/..\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"httpclient.c\"]}],\"fullName\":\"api_tester_httpclient\",\"linkFlags\":\"-static-libstdc++ -Wl,--build-id\u003dsha1 -Wl,--no-rosegment -Wl,--fatal-warnings -Wl,--gc-sections -Wl,--no-undefined -Qunused-arguments -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -std\u003dc++11 -frtti -fexceptions -O3 -DNDEBUG\",\"linkLibraries\":\"..\\\\..\\\\..\\\\libmk_api.a -llog -Wl,--start-group ..\\\\..\\\\..\\\\libsrt.a ..\\\\..\\\\..\\\\libzlmediakit.a ..\\\\..\\\\..\\\\libjsoncpp.a ..\\\\..\\\\..\\\\libflv.a ..\\\\..\\\\..\\\\libmov.a ..\\\\..\\\\..\\\\libmpeg.a ..\\\\..\\\\..\\\\libzltoolkit.a -Wl,--end-group -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"api_tester_httpclient\",\"sourceDirectory\":\"D:/Git/Android/ZLMediaKit-Android-Stream/api/tests\",\"sysroot\":\"D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"EXECUTABLE\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\release\\x86\\build_output.txt",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\release\\x86\\build_command.txt",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
     "tag": "release|x86"
   },
   {
     "level": "INFO",
     "message": "JSON generation completed without problems",
-    "file": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "file": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
     "tag": "release|x86"
   }
 ]

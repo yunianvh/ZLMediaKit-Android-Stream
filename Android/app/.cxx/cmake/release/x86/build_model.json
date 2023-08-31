@@ -5,9 +5,9 @@
     "environmentVariables": []
   },
   "cmake": {
-    "cmakeArtifactsBaseFolder": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\release\\x86",
-    "cmakeServerLogFile": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\release\\x86\\cmake_server_log.txt",
-    "cmakeWrappingBaseFolder": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cxx\\release\\x86",
+    "cmakeArtifactsBaseFolder": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\release\\x86",
+    "cmakeServerLogFile": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\release\\x86\\cmake_server_log.txt",
+    "cmakeWrappingBaseFolder": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cxx\\release\\x86",
     "effectiveConfiguration": {
       "name": "traditional-android-studio-cmake-environment",
       "description": "Composite reified CMakeSettings configuration",
@@ -15,7 +15,7 @@
       "inheritEnvironments": [
         "ndk"
       ],
-      "buildRoot": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\release\\x86",
+      "buildRoot": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\release\\x86",
       "cmakeToolchain": "D:\\Android\\sdk\\ndk\\25.1.8937393\\build\\cmake\\android.toolchain.cmake",
       "cmakeExecutable": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
       "variables": [
@@ -25,7 +25,7 @@
         },
         {
           "name": "CMAKE_FIND_ROOT_PATH",
-          "value": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\release\\prefab\\x86\\prefab"
+          "value": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\release\\prefab\\x86\\prefab"
         },
         {
           "name": "CMAKE_BUILD_TYPE",
@@ -61,7 +61,7 @@
         },
         {
           "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
-          "value": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\build\\intermediates\\cmake\\release\\obj\\x86"
+          "value": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\build\\intermediates\\cmake\\release\\obj\\x86"
         },
         {
           "name": "CMAKE_MAKE_PROGRAM",
@@ -98,14 +98,14 @@
       ]
     }
   },
-  "cxxBuildFolder": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\release\\x86",
+  "cxxBuildFolder": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\release\\x86",
   "info": {
     "abi": "X86",
     "bitness": 32,
     "deprecated": false,
     "default": true
   },
-  "originalCxxBuildFolder": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\release\\x86",
+  "originalCxxBuildFolder": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\release\\x86",
   "variant": {
     "buildSystemArgumentList": [
       "-DENABLE_API\u003don",
@@ -115,6 +115,7 @@
       "-DENABLE_SERVER_LIB\u003don"
     ],
     "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
     "cFlagsList": [],
     "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
     "cppFlagsList": [
@@ -129,12 +130,12 @@
         "ninjaExe": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
       },
       "cmakeToolchainFile": "D:\\Android\\sdk\\ndk\\25.1.8937393\\build\\cmake\\android.toolchain.cmake",
-      "cxxFolder": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx",
+      "cxxFolder": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx",
       "gradleModulePathName": ":app",
-      "intermediatesFolder": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\build\\intermediates",
-      "makeFile": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
-      "moduleBuildFile": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\build.gradle",
-      "moduleRootFolder": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app",
+      "intermediatesFolder": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\build\\intermediates",
+      "makeFile": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+      "moduleBuildFile": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\build.gradle",
+      "moduleRootFolder": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app",
       "ndkDefaultAbiList": [
         "ARMEABI_V7A",
         "ARM64_V8A",
@@ -202,12 +203,12 @@
       "ndkDefaultStl": "LIBCXX_STATIC",
       "ndkVersion": "25.1.8937393",
       "project": {
-        "compilerSettingsCacheFolder": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\.cxx",
-        "cxxFolder": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\.cxx",
+        "compilerSettingsCacheFolder": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\.cxx",
+        "cxxFolder": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\.cxx",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
-        "rootBuildGradleFolder": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android",
+        "rootBuildGradleFolder": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android",
         "sdkFolder": "D:\\Android\\sdk",
         "isPrefabEnabled": false
       },
@@ -224,7 +225,7 @@
         "SYSTEM": {}
       }
     },
-    "objFolder": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\build\\intermediates\\cmake\\release\\obj",
+    "objFolder": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\build\\intermediates\\cmake\\release\\obj",
     "variantName": "release",
     "validAbiList": [
       "ARMEABI_V7A",
@@ -232,8 +233,8 @@
       "X86",
       "X86_64"
     ],
-    "prefabDirectory": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\release\\prefab",
+    "prefabDirectory": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\release\\prefab",
     "prefabPackageDirectoryList": []
   },
-  "prefabFolder": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\release\\prefab\\x86"
+  "prefabFolder": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\release\\prefab\\x86"
 }

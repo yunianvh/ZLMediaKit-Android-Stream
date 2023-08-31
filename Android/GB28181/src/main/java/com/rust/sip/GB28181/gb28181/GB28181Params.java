@@ -4,9 +4,9 @@ import android.hardware.Camera;
 
 public class GB28181Params {
     //默认UserAgent
-    public static final String defaultUserAgent="RUST";
+    public static final String defaultUserAgent = "RUST";
     //默认传输协议
-    public static final String defaultProtol="udp";
+    public static final String defaultProtol = "udp";
     //本机IP地址
     private static String LocalSIPIPAddress;
     //SIP服务器IP地址
@@ -23,6 +23,8 @@ public class GB28181Params {
     private static int LocalSIPPort;
     //媒体服务器IP地址
     private static String MediaServerIPAddress;
+    //媒体服务器（0：UDP 1：TCP）
+    private static int MediaServerProtol;
     //媒体服务器端口
     private static int MediaServerPort;
     //本机SIP设备ID
@@ -47,6 +49,14 @@ public class GB28181Params {
     //Camera状态（大于0已使用，0未使用）
     public static int CameraState;
     private static String ssrc;
+
+    public static int getMediaServerProtol() {
+        return MediaServerProtol;
+    }
+
+    public static void setMediaServerProtol(int mediaServerProtol) {
+        MediaServerProtol = mediaServerProtol;
+    }
 
     public static String getSsrc() {
         return ssrc;

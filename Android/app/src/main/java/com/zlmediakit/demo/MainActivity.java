@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onStopRtp(String ssrc) {
-                Log.e(TAG, "onStopRtp  关闭RTP推流: " + ssrc);
+                Log.e(TAG, "onStartRtp  关闭RTP推流: " + ssrc);
                 NetUtil.Companion.getInstance().stopSendRtp(ssrc);
             }
         });

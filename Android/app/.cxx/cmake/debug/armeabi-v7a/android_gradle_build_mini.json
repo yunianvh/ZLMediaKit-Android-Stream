@@ -1,131 +1,131 @@
 {
   "buildFiles": [
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
     "D:\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\android.toolchain.cmake",
     "D:\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\android-legacy.toolchain.cmake",
     "D:\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\platforms.cmake",
     "D:\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\compiler_id.cmake",
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\CMakeLists.txt",
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\version.h.ini",
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\cmake\\FindJEMALLOC.cmake",
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\cmake\\FindMYSQL.cmake",
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\cmake\\FindX264.cmake",
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\cmake\\FindFAAC.cmake",
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\CMakeLists.txt",
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\CMakeLists.txt",
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\CMakeLists.txt",
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\CMakeLists.txt",
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\tests\\CMakeLists.txt",
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\server\\CMakeLists.txt"
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\CMakeLists.txt",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\version.h.ini",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\cmake\\FindJEMALLOC.cmake",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\cmake\\FindMYSQL.cmake",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\cmake\\FindX264.cmake",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\cmake\\FindFAAC.cmake",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\CMakeLists.txt",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\CMakeLists.txt",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\srt\\CMakeLists.txt",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\CMakeLists.txt",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\tests\\CMakeLists.txt",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\server\\CMakeLists.txt"
   ],
   "cleanCommands": [
-    "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+    "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
   ],
-  "buildTargetsCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "buildTargetsCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
   "libraries": {
     "zlmediakit_jni-Debug-armeabi-v7a": {
       "artifactName": "zlmediakit_jni",
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" zlmediakit_jni",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" zlmediakit_jni",
       "abi": "armeabi-v7a",
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\armeabi-v7a\\libzlmediakit_jni.so",
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\libs_export\\armeabi-v7a\\libzlmediakit_jni.so",
       "runtimeFiles": []
     },
     "mov-Debug-armeabi-v7a": {
       "artifactName": "mov",
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" mov",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" mov",
       "abi": "armeabi-v7a",
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\armeabi-v7a\\libmov.a",
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\libs_export\\armeabi-v7a\\libmov.a",
       "runtimeFiles": []
     },
     "srt-Debug-armeabi-v7a": {
       "artifactName": "srt",
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" srt",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" srt",
       "abi": "armeabi-v7a",
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\armeabi-v7a\\libsrt.a",
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\libs_export\\armeabi-v7a\\libsrt.a",
       "runtimeFiles": []
     },
     "api_tester_server-Debug-armeabi-v7a": {
       "artifactName": "api_tester_server",
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" api_tester_server",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" api_tester_server",
       "abi": "armeabi-v7a",
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\release\\android\\Debug\\api_tester_server",
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\release\\android\\Debug\\api_tester_server",
       "runtimeFiles": []
     },
     "api_tester_pusher-Debug-armeabi-v7a": {
       "artifactName": "api_tester_pusher",
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" api_tester_pusher",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" api_tester_pusher",
       "abi": "armeabi-v7a",
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\release\\android\\Debug\\api_tester_pusher",
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\release\\android\\Debug\\api_tester_pusher",
       "runtimeFiles": []
     },
     "zltoolkit-Debug-armeabi-v7a": {
       "artifactName": "zltoolkit",
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" zltoolkit",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" zltoolkit",
       "abi": "armeabi-v7a",
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\armeabi-v7a\\libzltoolkit.a",
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\libs_export\\armeabi-v7a\\libzltoolkit.a",
       "runtimeFiles": []
     },
     "api_tester_httpclient-Debug-armeabi-v7a": {
       "artifactName": "api_tester_httpclient",
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" api_tester_httpclient",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" api_tester_httpclient",
       "abi": "armeabi-v7a",
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\release\\android\\Debug\\api_tester_httpclient",
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\release\\android\\Debug\\api_tester_httpclient",
       "runtimeFiles": []
     },
     "MediaServer-Debug-armeabi-v7a": {
       "artifactName": "MediaServer",
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" MediaServer",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" MediaServer",
       "abi": "armeabi-v7a",
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\armeabi-v7a\\libMediaServer.a",
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\libs_export\\armeabi-v7a\\libMediaServer.a",
       "runtimeFiles": []
     },
     "flv-Debug-armeabi-v7a": {
       "artifactName": "flv",
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" flv",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" flv",
       "abi": "armeabi-v7a",
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\armeabi-v7a\\libflv.a",
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\libs_export\\armeabi-v7a\\libflv.a",
       "runtimeFiles": []
     },
     "jsoncpp-Debug-armeabi-v7a": {
       "artifactName": "jsoncpp",
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" jsoncpp",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" jsoncpp",
       "abi": "armeabi-v7a",
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\armeabi-v7a\\libjsoncpp.a",
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\libs_export\\armeabi-v7a\\libjsoncpp.a",
       "runtimeFiles": []
     },
     "api_tester_websocket-Debug-armeabi-v7a": {
       "artifactName": "api_tester_websocket",
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" api_tester_websocket",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" api_tester_websocket",
       "abi": "armeabi-v7a",
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\release\\android\\Debug\\api_tester_websocket",
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\release\\android\\Debug\\api_tester_websocket",
       "runtimeFiles": []
     },
     "mk_api-Debug-armeabi-v7a": {
       "artifactName": "mk_api",
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" mk_api",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" mk_api",
       "abi": "armeabi-v7a",
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\armeabi-v7a\\libmk_api.a",
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\libs_export\\armeabi-v7a\\libmk_api.a",
       "runtimeFiles": []
     },
     "mpeg-Debug-armeabi-v7a": {
       "artifactName": "mpeg",
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" mpeg",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" mpeg",
       "abi": "armeabi-v7a",
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\armeabi-v7a\\libmpeg.a",
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\libs_export\\armeabi-v7a\\libmpeg.a",
       "runtimeFiles": []
     },
     "zlmediakit-Debug-armeabi-v7a": {
       "artifactName": "zlmediakit",
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" zlmediakit",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" zlmediakit",
       "abi": "armeabi-v7a",
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\armeabi-v7a\\libzlmediakit.a",
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\libs_export\\armeabi-v7a\\libzlmediakit.a",
       "runtimeFiles": []
     },
     "api_tester_h264_media_server-Debug-armeabi-v7a": {
       "artifactName": "api_tester_h264_media_server",
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" api_tester_h264_media_server",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" api_tester_h264_media_server",
       "abi": "armeabi-v7a",
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\release\\android\\Debug\\api_tester_h264_media_server",
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\release\\android\\Debug\\api_tester_h264_media_server",
       "runtimeFiles": []
     }
   }

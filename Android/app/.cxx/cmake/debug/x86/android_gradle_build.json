@@ -1,7 +1,7 @@
 {
   "stringTable": {
-    "0": "D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/x86",
-    "1": "--target=i686-none-linux-android24 --sysroot=D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dzlmediakit_jni_EXPORTS -ID:/Git/Android/ZLM/ZLMediaKit/Android/app/src/main/cpp -ID:/Git/Android/ZLM/ZLMediaKit/Android/app/src/main/cpp/../../../../../src -ID:/Git/Android/ZLM/ZLMediaKit/Android/app/src/main/cpp/../../../../../srt -ID:/Git/Android/ZLM/ZLMediaKit/Android/app/src/main/cpp/../../../../../webrtc -ID:/Git/Android/ZLM/ZLMediaKit/Android/app/src/main/cpp/../../../../../server -ID:/Git/Android/ZLM/ZLMediaKit/Android/app/src/main/cpp/../../../../../3rdpart -ID:/Git/Android/ZLM/ZLMediaKit/Android/app/src/main/cpp/../../../../../3rdpart/media-server -ID:/Git/Android/ZLM/ZLMediaKit/Android/app/src/main/cpp/../../../../../3rdpart/ZLToolKit/src -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -fno-limit-debug-info -fPIC -std=gnu++11",
+    "0": "D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android24 --sysroot=D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dzlmediakit_jni_EXPORTS -ID:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp -ID:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/../../../../../src -ID:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/../../../../../srt -ID:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/../../../../../webrtc -ID:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/../../../../../server -ID:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/../../../../../3rdpart -ID:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/../../../../../3rdpart/media-server -ID:/Git/Android/ZLMediaKit-Android-Stream/Android/app/src/main/cpp/../../../../../3rdpart/ZLToolKit/src -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -fno-limit-debug-info -fPIC -std=gnu++11",
     "2": "--target=i686-none-linux-android24 --sysroot=D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -I../../../../src/main/cpp/libs_export/x86/binary -I../../../../../../3rdpart -I../../../../../../3rdpart/media-server/libmpeg/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fno-limit-debug-info -fPIC -fPIC -Wall -Wextra -Wno-unused-function -Wno-unused-parameter -Wno-unused-variable -Wno-error=extra -Wno-error=missing-field-initializers -Wno-error=type-limits -DMPEG_H26X_VERIFY -DMPEG_ZERO_PAYLOAD_LENGTH -DMPEG_DAHUA_AAC_FROM_G711",
     "3": "--target=i686-none-linux-android24 --sysroot=D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -I../../../../src/main/cpp/libs_export/x86/binary -I../../../../../../3rdpart -I../../../../../../3rdpart/jsoncpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -fno-limit-debug-info -fPIC -fPIC -Wall -Wextra -Wno-unused-function -Wno-unused-parameter -Wno-unused-variable -Wno-error=extra -Wno-error=missing-field-initializers -Wno-error=type-limits -std=gnu++11",
     "4": "--target=i686-none-linux-android24 --sysroot=D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DENABLE_MP4 -I../../../../src/main/cpp/libs_export/x86/binary -I../../../../../../3rdpart -I../../../../../../3rdpart/media-server/libmov/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fno-limit-debug-info -fPIC -fPIC -Wall -Wextra -Wno-unused-function -Wno-unused-parameter -Wno-unused-variable -Wno-error=extra -Wno-error=missing-field-initializers -Wno-error=type-limits",
@@ -16,2329 +16,2320 @@
     "13": "--target=i686-none-linux-android24 --sysroot=D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DDISABLE_MAIN -DENABLE_HLS -DENABLE_MP4 -DENABLE_RTPPROXY -DENABLE_SRT -DENABLE_VERSION -DHAVE_MMSG_HDR -DHAVE_RECVMMSG_API -DHAVE_SENDMMSG_API -I../../../../src/main/cpp/libs_export/x86/binary -I../../../../../../3rdpart -I../../../../../../3rdpart/jsoncpp/include -I../../../../../../3rdpart/media-server/libflv/include -I../../../../../../3rdpart/media-server/libmov/include -I../../../../../../3rdpart/media-server/libmpeg/include -I../../../../../../3rdpart/ZLToolKit/src -I../../../../../../src -I../../../../../../srt -I../../../../../../srt/.. -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -fno-limit-debug-info -fPIC -fPIC -Wall -Wextra -Wno-unused-function -Wno-unused-parameter -Wno-unused-variable -Wno-error=extra -Wno-error=missing-field-initializers -Wno-error=type-limits -std=gnu++11"
   },
   "buildFiles": [
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\server\\CMakeLists.txt",
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\cmake\\FindMYSQL.cmake",
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\version.h.ini",
-    "D:\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\android-legacy.toolchain.cmake",
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\CMakeLists.txt",
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\CMakeLists.txt",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
     "D:\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\android.toolchain.cmake",
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\CMakeLists.txt",
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\cmake\\FindJEMALLOC.cmake",
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\CMakeLists.txt",
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\CMakeLists.txt",
+    "D:\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\android-legacy.toolchain.cmake",
     "D:\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\platforms.cmake",
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\cmake\\FindFAAC.cmake",
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\tests\\CMakeLists.txt",
-    "D:\\Git\\Android\\ZLM\\ZLMediaKit\\cmake\\FindX264.cmake",
-    "D:\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\compiler_id.cmake"
+    "D:\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\compiler_id.cmake",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\CMakeLists.txt",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\version.h.ini",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\cmake\\FindJEMALLOC.cmake",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\cmake\\FindMYSQL.cmake",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\cmake\\FindX264.cmake",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\cmake\\FindFAAC.cmake",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\CMakeLists.txt",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\CMakeLists.txt",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\srt\\CMakeLists.txt",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\CMakeLists.txt",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\tests\\CMakeLists.txt",
+    "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\server\\CMakeLists.txt"
   ],
   "cleanCommands": [
-    "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\x86\" clean"
+    "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\x86\" clean"
   ],
-  "buildTargetsCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "buildTargetsCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
   "libraries": {
     "mpeg-Debug-x86": {
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\x86\" mpeg",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\x86\" mpeg",
       "buildType": "debug",
       "toolchain": "1140156550",
       "abi": "x86",
       "artifactName": "mpeg",
       "files": [
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmpeg\\source\\mpeg-crc32.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmpeg\\source\\mpeg-crc32.c",
           "flagsOrdinal": 2,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmpeg\\source\\mpeg-element-descriptor.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmpeg\\source\\mpeg-element-descriptor.c",
           "flagsOrdinal": 2,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmpeg\\source\\mpeg-muxer.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmpeg\\source\\mpeg-muxer.c",
           "flagsOrdinal": 2,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmpeg\\source\\mpeg-pack-header.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmpeg\\source\\mpeg-pack-header.c",
           "flagsOrdinal": 2,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmpeg\\source\\mpeg-packet.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmpeg\\source\\mpeg-packet.c",
           "flagsOrdinal": 2,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmpeg\\source\\mpeg-pat.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmpeg\\source\\mpeg-pat.c",
           "flagsOrdinal": 2,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmpeg\\source\\mpeg-pes.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmpeg\\source\\mpeg-pes.c",
           "flagsOrdinal": 2,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmpeg\\source\\mpeg-pmt.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmpeg\\source\\mpeg-pmt.c",
           "flagsOrdinal": 2,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmpeg\\source\\mpeg-ps-dec.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmpeg\\source\\mpeg-ps-dec.c",
           "flagsOrdinal": 2,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmpeg\\source\\mpeg-ps-enc.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmpeg\\source\\mpeg-ps-enc.c",
           "flagsOrdinal": 2,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmpeg\\source\\mpeg-psd.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmpeg\\source\\mpeg-psd.c",
           "flagsOrdinal": 2,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmpeg\\source\\mpeg-psm.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmpeg\\source\\mpeg-psm.c",
           "flagsOrdinal": 2,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmpeg\\source\\mpeg-sdt.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmpeg\\source\\mpeg-sdt.c",
           "flagsOrdinal": 2,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmpeg\\source\\mpeg-system-header.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmpeg\\source\\mpeg-system-header.c",
           "flagsOrdinal": 2,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmpeg\\source\\mpeg-ts-dec.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmpeg\\source\\mpeg-ts-dec.c",
           "flagsOrdinal": 2,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmpeg\\source\\mpeg-ts-enc.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmpeg\\source\\mpeg-ts-enc.c",
           "flagsOrdinal": 2,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmpeg\\source\\mpeg-ts-h264.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmpeg\\source\\mpeg-ts-h264.c",
           "flagsOrdinal": 2,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmpeg\\source\\mpeg-ts-h265.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmpeg\\source\\mpeg-ts-h265.c",
           "flagsOrdinal": 2,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmpeg\\source\\mpeg-util.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmpeg\\source\\mpeg-util.c",
           "flagsOrdinal": 2,
           "workingDirectoryOrdinal": 0
         }
       ],
       "headers": [],
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\x86\\libmpeg.a",
-      "runtimeFiles": []
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\libs_export\\x86\\libmpeg.a"
     },
     "api_tester_h264_media_server-Debug-x86": {
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\x86\" api_tester_h264_media_server",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\x86\" api_tester_h264_media_server",
       "buildType": "debug",
       "toolchain": "1140156550",
       "abi": "x86",
       "artifactName": "api_tester_h264_media_server",
       "files": [
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\tests\\h264_media_server.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\tests\\h264_media_server.c",
           "flagsOrdinal": 12,
           "workingDirectoryOrdinal": 0
         }
       ],
       "headers": [],
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\release\\android\\Debug\\api_tester_h264_media_server",
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\release\\android\\Debug\\api_tester_h264_media_server",
       "runtimeFiles": []
     },
     "zlmediakit_jni-Debug-x86": {
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\x86\" zlmediakit_jni",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\x86\" zlmediakit_jni",
       "buildType": "debug",
       "toolchain": "1140156550",
       "abi": "x86",
       "artifactName": "zlmediakit_jni",
       "files": [
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\native-lib.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\native-lib.cpp",
           "flagsOrdinal": 1,
           "workingDirectoryOrdinal": 0
         }
       ],
       "headers": [],
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\x86\\libzlmediakit_jni.so",
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\libs_export\\x86\\libzlmediakit_jni.so",
       "runtimeFiles": []
     },
     "mk_api-Debug-x86": {
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\x86\" mk_api",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\x86\" mk_api",
       "buildType": "debug",
       "toolchain": "1140156550",
       "abi": "x86",
       "artifactName": "mk_api",
       "files": [
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\source\\mk_common.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\source\\mk_common.cpp",
           "flagsOrdinal": 11,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\source\\mk_events.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\source\\mk_events.cpp",
           "flagsOrdinal": 11,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\source\\mk_events_objects.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\source\\mk_events_objects.cpp",
           "flagsOrdinal": 11,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\source\\mk_frame.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\source\\mk_frame.cpp",
           "flagsOrdinal": 11,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\source\\mk_h264_splitter.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\source\\mk_h264_splitter.cpp",
           "flagsOrdinal": 11,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\source\\mk_httpclient.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\source\\mk_httpclient.cpp",
           "flagsOrdinal": 11,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\source\\mk_media.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\source\\mk_media.cpp",
           "flagsOrdinal": 11,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\source\\mk_player.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\source\\mk_player.cpp",
           "flagsOrdinal": 11,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\source\\mk_proxyplayer.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\source\\mk_proxyplayer.cpp",
           "flagsOrdinal": 11,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\source\\mk_pusher.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\source\\mk_pusher.cpp",
           "flagsOrdinal": 11,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\source\\mk_recorder.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\source\\mk_recorder.cpp",
           "flagsOrdinal": 11,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\source\\mk_rtp_server.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\source\\mk_rtp_server.cpp",
           "flagsOrdinal": 11,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\source\\mk_tcp.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\source\\mk_tcp.cpp",
           "flagsOrdinal": 11,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\source\\mk_thread.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\source\\mk_thread.cpp",
           "flagsOrdinal": 11,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\source\\mk_track.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\source\\mk_track.cpp",
           "flagsOrdinal": 11,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\source\\mk_transcode.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\source\\mk_transcode.cpp",
           "flagsOrdinal": 11,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\source\\mk_util.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\source\\mk_util.cpp",
           "flagsOrdinal": 11,
           "workingDirectoryOrdinal": 0
         }
       ],
       "headers": [
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\include\\mk_common.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\include\\mk_common.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\include\\mk_events.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\include\\mk_events.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\include\\mk_events_objects.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\include\\mk_events_objects.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\include\\mk_frame.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\include\\mk_frame.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\include\\mk_h264_splitter.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\include\\mk_h264_splitter.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\include\\mk_httpclient.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\include\\mk_httpclient.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\include\\mk_media.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\include\\mk_media.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\include\\mk_mediakit.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\include\\mk_mediakit.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\include\\mk_player.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\include\\mk_player.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\include\\mk_proxyplayer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\include\\mk_proxyplayer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\include\\mk_pusher.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\include\\mk_pusher.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\include\\mk_recorder.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\include\\mk_recorder.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\include\\mk_rtp_server.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\include\\mk_rtp_server.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\include\\mk_tcp.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\include\\mk_tcp.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\include\\mk_thread.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\include\\mk_thread.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\include\\mk_track.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\include\\mk_track.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\include\\mk_transcode.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\include\\mk_transcode.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\include\\mk_util.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\include\\mk_util.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\source\\mk_tcp_private.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\source\\mk_tcp_private.h",
           "workingDirectoryOrdinal": 0
         }
       ],
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\x86\\libmk_api.a",
-      "runtimeFiles": []
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\libs_export\\x86\\libmk_api.a"
     },
     "zlmediakit-Debug-x86": {
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\x86\" zlmediakit",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\x86\" zlmediakit",
       "buildType": "debug",
       "toolchain": "1140156550",
       "abi": "x86",
       "artifactName": "zlmediakit",
       "files": [
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\SPSParser.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\SPSParser.c",
           "flagsOrdinal": 8,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Codec\\AACEncoder.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Codec\\AACEncoder.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Codec\\H264Encoder.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Codec\\H264Encoder.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Codec\\Transcode.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Codec\\Transcode.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Common\\Device.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Common\\Device.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Common\\MediaSink.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Common\\MediaSink.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Common\\MediaSource.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Common\\MediaSource.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Common\\MultiMediaSourceMuxer.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Common\\MultiMediaSourceMuxer.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Common\\Parser.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Common\\Parser.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Common\\Stamp.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Common\\Stamp.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Common\\config.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Common\\config.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Common\\macros.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Common\\macros.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\AAC.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\AAC.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\AACRtmp.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\AACRtmp.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\AACRtp.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\AACRtp.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\CommonRtmp.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\CommonRtmp.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\CommonRtp.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\CommonRtp.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\Factory.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\Factory.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\Frame.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\Frame.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\G711.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\G711.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\G711Rtp.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\G711Rtp.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\H264.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\H264.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\H264Rtmp.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\H264Rtmp.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\H264Rtp.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\H264Rtp.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\H265.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\H265.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\H265Rtmp.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\H265Rtmp.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\H265Rtp.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\H265Rtp.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\JPEG.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\JPEG.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\JPEGRtp.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\JPEGRtp.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\L16.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\L16.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\Opus.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\Opus.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HlsParser.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HlsParser.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HlsPlayer.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HlsPlayer.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpBody.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpBody.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpChunkedSplitter.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpChunkedSplitter.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpClient.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpClient.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpClientImp.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpClientImp.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpConst.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpConst.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpCookie.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpCookie.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpCookieManager.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpCookieManager.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpDownloader.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpDownloader.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpFileManager.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpFileManager.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpRequestSplitter.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpRequestSplitter.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpRequester.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpRequester.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpSession.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpSession.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpTSPlayer.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpTSPlayer.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\TsPlayer.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\TsPlayer.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\TsplayerImp.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\TsplayerImp.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\WebSocketSplitter.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\WebSocketSplitter.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\strCoding.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\strCoding.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Player\\MediaPlayer.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Player\\MediaPlayer.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Player\\PlayerBase.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Player\\PlayerBase.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Player\\PlayerProxy.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Player\\PlayerProxy.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Pusher\\MediaPusher.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Pusher\\MediaPusher.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Pusher\\PusherBase.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Pusher\\PusherBase.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Pusher\\PusherProxy.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Pusher\\PusherProxy.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Record\\HlsMaker.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Record\\HlsMaker.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Record\\HlsMakerImp.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Record\\HlsMakerImp.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Record\\HlsMediaSource.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Record\\HlsMediaSource.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Record\\MP4.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Record\\MP4.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Record\\MP4Demuxer.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Record\\MP4Demuxer.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Record\\MP4Muxer.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Record\\MP4Muxer.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Record\\MP4Reader.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Record\\MP4Reader.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Record\\MP4Recorder.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Record\\MP4Recorder.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Record\\MPEG.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Record\\MPEG.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Record\\Recorder.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Record\\Recorder.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtcp\\Rtcp.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtcp\\Rtcp.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtcp\\RtcpContext.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtcp\\RtcpContext.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtcp\\RtcpFCI.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtcp\\RtcpFCI.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\FlvMuxer.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\FlvMuxer.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\Rtmp.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\Rtmp.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\RtmpDemuxer.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\RtmpDemuxer.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\RtmpMediaSourceImp.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\RtmpMediaSourceImp.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\RtmpMuxer.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\RtmpMuxer.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\RtmpPlayer.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\RtmpPlayer.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\RtmpProtocol.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\RtmpProtocol.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\RtmpPusher.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\RtmpPusher.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\RtmpSession.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\RtmpSession.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\amf.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\amf.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\utils.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\utils.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\Decoder.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\Decoder.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\GB28181Process.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\GB28181Process.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\PSDecoder.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\PSDecoder.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\PSEncoder.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\PSEncoder.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\RawEncoder.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\RawEncoder.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\RtpCache.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\RtpCache.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\RtpProcess.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\RtpProcess.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\RtpSelector.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\RtpSelector.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\RtpSender.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\RtpSender.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\RtpServer.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\RtpServer.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\RtpSession.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\RtpSession.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\RtpSplitter.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\RtpSplitter.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\TSDecoder.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\TSDecoder.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\RtpCodec.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\RtpCodec.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\RtpMultiCaster.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\RtpMultiCaster.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\RtpReceiver.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\RtpReceiver.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\Rtsp.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\Rtsp.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\RtspDemuxer.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\RtspDemuxer.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\RtspMediaSourceImp.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\RtspMediaSourceImp.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\RtspMuxer.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\RtspMuxer.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\RtspPlayer.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\RtspPlayer.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\RtspPusher.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\RtspPusher.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\RtspSession.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\RtspSession.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\RtspSplitter.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\RtspSplitter.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\UDPServer.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\UDPServer.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Shell\\ShellSession.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Shell\\ShellSession.cpp",
           "flagsOrdinal": 9,
           "workingDirectoryOrdinal": 0
         }
       ],
       "headers": [
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Codec\\AACEncoder.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Codec\\AACEncoder.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Codec\\H264Encoder.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Codec\\H264Encoder.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Codec\\Transcode.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Codec\\Transcode.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Common\\Device.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Common\\Device.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Common\\MediaSink.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Common\\MediaSink.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Common\\MediaSource.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Common\\MediaSource.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Common\\MultiMediaSourceMuxer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Common\\MultiMediaSourceMuxer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Common\\PacketCache.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Common\\PacketCache.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Common\\Parser.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Common\\Parser.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Common\\Stamp.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Common\\Stamp.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Common\\config.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Common\\config.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Common\\macros.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Common\\macros.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\AAC.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\AAC.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\AACRtmp.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\AACRtmp.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\AACRtp.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\AACRtp.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\CommonRtmp.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\CommonRtmp.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\CommonRtp.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\CommonRtp.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\Factory.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\Factory.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\Frame.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\Frame.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\G711.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\G711.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\G711Rtp.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\G711Rtp.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\H264.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\H264.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\H264Rtmp.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\H264Rtmp.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\H264Rtp.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\H264Rtp.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\H265.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\H265.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\H265Rtmp.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\H265Rtmp.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\H265Rtp.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\H265Rtp.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\JPEG.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\JPEG.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\JPEGRtp.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\JPEGRtp.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\L16.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\L16.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\Opus.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\Opus.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\SPSParser.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\SPSParser.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Extension\\Track.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Extension\\Track.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\FMP4\\FMP4MediaSource.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\FMP4\\FMP4MediaSource.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\FMP4\\FMP4MediaSourceMuxer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\FMP4\\FMP4MediaSourceMuxer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HlsParser.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HlsParser.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HlsPlayer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HlsPlayer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpBody.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpBody.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpChunkedSplitter.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpChunkedSplitter.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpClient.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpClient.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpClientImp.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpClientImp.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpConst.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpConst.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpCookie.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpCookie.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpCookieManager.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpCookieManager.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpDownloader.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpDownloader.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpFileManager.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpFileManager.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpRequestSplitter.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpRequestSplitter.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpRequester.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpRequester.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpSession.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpSession.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\HttpTSPlayer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\HttpTSPlayer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\TsPlayer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\TsPlayer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\TsPlayerImp.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\TsPlayerImp.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\WebSocketClient.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\WebSocketClient.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\WebSocketSession.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\WebSocketSession.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\WebSocketSplitter.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\WebSocketSplitter.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Http\\strCoding.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Http\\strCoding.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Player\\MediaPlayer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Player\\MediaPlayer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Player\\PlayerBase.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Player\\PlayerBase.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Player\\PlayerProxy.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Player\\PlayerProxy.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Pusher\\MediaPusher.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Pusher\\MediaPusher.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Pusher\\PusherBase.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Pusher\\PusherBase.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Pusher\\PusherProxy.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Pusher\\PusherProxy.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Record\\HlsMaker.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Record\\HlsMaker.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Record\\HlsMakerImp.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Record\\HlsMakerImp.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Record\\HlsMediaSource.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Record\\HlsMediaSource.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Record\\HlsRecorder.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Record\\HlsRecorder.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Record\\MP4.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Record\\MP4.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Record\\MP4Demuxer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Record\\MP4Demuxer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Record\\MP4Muxer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Record\\MP4Muxer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Record\\MP4Reader.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Record\\MP4Reader.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Record\\MP4Recorder.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Record\\MP4Recorder.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Record\\MPEG.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Record\\MPEG.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Record\\Recorder.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Record\\Recorder.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtcp\\Rtcp.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtcp\\Rtcp.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtcp\\RtcpContext.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtcp\\RtcpContext.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtcp\\RtcpFCI.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtcp\\RtcpFCI.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\FlvMuxer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\FlvMuxer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\Rtmp.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\Rtmp.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\RtmpCodec.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\RtmpCodec.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\RtmpDemuxer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\RtmpDemuxer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\RtmpMediaSource.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\RtmpMediaSource.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\RtmpMediaSourceImp.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\RtmpMediaSourceImp.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\RtmpMediaSourceMuxer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\RtmpMediaSourceMuxer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\RtmpMuxer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\RtmpMuxer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\RtmpPlayer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\RtmpPlayer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\RtmpPlayerImp.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\RtmpPlayerImp.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\RtmpProtocol.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\RtmpProtocol.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\RtmpPusher.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\RtmpPusher.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\RtmpSession.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\RtmpSession.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\amf.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\amf.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtmp\\utils.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtmp\\utils.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\Decoder.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\Decoder.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\GB28181Process.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\GB28181Process.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\PSDecoder.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\PSDecoder.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\PSEncoder.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\PSEncoder.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\ProcessInterface.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\ProcessInterface.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\RawEncoder.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\RawEncoder.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\RtpCache.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\RtpCache.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\RtpProcess.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\RtpProcess.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\RtpSelector.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\RtpSelector.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\RtpSender.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\RtpSender.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\RtpServer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\RtpServer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\RtpSession.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\RtpSession.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\RtpSplitter.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\RtpSplitter.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtp\\TSDecoder.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtp\\TSDecoder.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\RtpCodec.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\RtpCodec.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\RtpMultiCaster.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\RtpMultiCaster.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\RtpReceiver.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\RtpReceiver.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\Rtsp.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\Rtsp.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\RtspDemuxer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\RtspDemuxer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\RtspMediaSource.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\RtspMediaSource.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\RtspMediaSourceImp.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\RtspMediaSourceImp.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\RtspMediaSourceMuxer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\RtspMediaSourceMuxer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\RtspMuxer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\RtspMuxer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\RtspPlayer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\RtspPlayer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\RtspPlayerImp.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\RtspPlayerImp.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\RtspPusher.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\RtspPusher.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\RtspSession.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\RtspSession.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\RtspSplitter.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\RtspSplitter.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Rtsp\\UDPServer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Rtsp\\UDPServer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Shell\\ShellCMD.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Shell\\ShellCMD.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\Shell\\ShellSession.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\Shell\\ShellSession.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\TS\\TSMediaSource.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\TS\\TSMediaSource.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\src\\TS\\TSMediaSourceMuxer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\src\\TS\\TSMediaSourceMuxer.h",
           "workingDirectoryOrdinal": 0
         }
       ],
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\x86\\libzlmediakit.a",
-      "runtimeFiles": []
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\libs_export\\x86\\libzlmediakit.a"
     },
     "mov-Debug-x86": {
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\x86\" mov",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\x86\" mov",
       "buildType": "debug",
       "toolchain": "1140156550",
       "abi": "x86",
       "artifactName": "mov",
       "files": [
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\fmp4-reader.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\fmp4-reader.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\fmp4-writer.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\fmp4-writer.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-av1.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-av1.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-avc1.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-avc1.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-dinf.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-dinf.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-elst.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-elst.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-esds.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-esds.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-ftyp.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-ftyp.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-hdlr.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-hdlr.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-hdr.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-hdr.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-hvcc.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-hvcc.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-iods.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-iods.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-leva.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-leva.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-mdhd.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-mdhd.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-mehd.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-mehd.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-mfhd.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-mfhd.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-minf.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-minf.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-mvhd.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-mvhd.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-opus.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-opus.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-reader.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-reader.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-sidx.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-sidx.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-stco.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-stco.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-stsc.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-stsc.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-stsd.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-stsd.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-stss.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-stss.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-stsz.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-stsz.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-stts.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-stts.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-tag.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-tag.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-tfdt.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-tfdt.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-tfhd.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-tfhd.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-tfra.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-tfra.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-tkhd.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-tkhd.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-track.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-track.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-trex.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-trex.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-trun.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-trun.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-tx3g.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-tx3g.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-udta.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-udta.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-vpcc.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-vpcc.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libmov\\source\\mov-writer.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libmov\\source\\mov-writer.c",
           "flagsOrdinal": 4,
           "workingDirectoryOrdinal": 0
         }
       ],
       "headers": [],
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\x86\\libmov.a",
-      "runtimeFiles": []
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\libs_export\\x86\\libmov.a"
     },
     "MediaServer-Debug-x86": {
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\x86\" MediaServer",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\x86\" MediaServer",
       "buildType": "debug",
       "toolchain": "1140156550",
       "abi": "x86",
       "artifactName": "MediaServer",
       "files": [
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\server\\FFmpegSource.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\server\\FFmpegSource.cpp",
           "flagsOrdinal": 13,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\server\\Process.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\server\\Process.cpp",
           "flagsOrdinal": 13,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\server\\System.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\server\\System.cpp",
           "flagsOrdinal": 13,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\server\\WebApi.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\server\\WebApi.cpp",
           "flagsOrdinal": 13,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\server\\WebHook.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\server\\WebHook.cpp",
           "flagsOrdinal": 13,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\server\\main.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\server\\main.cpp",
           "flagsOrdinal": 13,
           "workingDirectoryOrdinal": 0
         }
       ],
       "headers": [
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\server\\FFmpegSource.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\server\\FFmpegSource.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\server\\Process.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\server\\Process.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\server\\System.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\server\\System.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\server\\WebApi.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\server\\WebApi.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\server\\WebHook.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\server\\WebHook.h",
           "workingDirectoryOrdinal": 0
         }
       ],
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\x86\\libMediaServer.a",
-      "runtimeFiles": []
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\libs_export\\x86\\libMediaServer.a"
     },
     "srt-Debug-x86": {
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\x86\" srt",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\x86\" srt",
       "buildType": "debug",
       "toolchain": "1140156550",
       "abi": "x86",
       "artifactName": "srt",
       "files": [
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\Ack.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\srt\\Ack.cpp",
           "flagsOrdinal": 10,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\HSExt.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\srt\\HSExt.cpp",
           "flagsOrdinal": 10,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\NackContext.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\srt\\NackContext.cpp",
           "flagsOrdinal": 10,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\Packet.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\srt\\Packet.cpp",
           "flagsOrdinal": 10,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\PacketQueue.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\srt\\PacketQueue.cpp",
           "flagsOrdinal": 10,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\PacketSendQueue.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\srt\\PacketSendQueue.cpp",
           "flagsOrdinal": 10,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\SrtSession.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\srt\\SrtSession.cpp",
           "flagsOrdinal": 10,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\SrtTransport.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\srt\\SrtTransport.cpp",
           "flagsOrdinal": 10,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\SrtTransportImp.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\srt\\SrtTransportImp.cpp",
           "flagsOrdinal": 10,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\Statistic.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\srt\\Statistic.cpp",
           "flagsOrdinal": 10,
           "workingDirectoryOrdinal": 0
         }
       ],
       "headers": [
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\Ack.hpp",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\srt\\Ack.hpp",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\Common.hpp",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\srt\\Common.hpp",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\HSExt.hpp",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\srt\\HSExt.hpp",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\NackContext.hpp",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\srt\\NackContext.hpp",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\Packet.hpp",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\srt\\Packet.hpp",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\PacketQueue.hpp",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\srt\\PacketQueue.hpp",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\PacketSendQueue.hpp",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\srt\\PacketSendQueue.hpp",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\SrtSession.hpp",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\srt\\SrtSession.hpp",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\SrtTransport.hpp",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\srt\\SrtTransport.hpp",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\SrtTransportImp.hpp",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\srt\\SrtTransportImp.hpp",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\srt\\Statistic.hpp",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\srt\\Statistic.hpp",
           "workingDirectoryOrdinal": 0
         }
       ],
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\x86\\libsrt.a",
-      "runtimeFiles": []
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\libs_export\\x86\\libsrt.a"
     },
     "api_tester_httpclient-Debug-x86": {
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\x86\" api_tester_httpclient",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\x86\" api_tester_httpclient",
       "buildType": "debug",
       "toolchain": "1140156550",
       "abi": "x86",
       "artifactName": "api_tester_httpclient",
       "files": [
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\tests\\httpclient.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\tests\\httpclient.c",
           "flagsOrdinal": 12,
           "workingDirectoryOrdinal": 0
         }
       ],
       "headers": [],
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\release\\android\\Debug\\api_tester_httpclient",
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\release\\android\\Debug\\api_tester_httpclient",
       "runtimeFiles": []
     },
     "flv-Debug-x86": {
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\x86\" flv",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\x86\" flv",
       "buildType": "debug",
       "toolchain": "1140156550",
       "abi": "x86",
       "artifactName": "flv",
       "files": [
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libflv\\source\\amf0.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libflv\\source\\amf0.c",
           "flagsOrdinal": 5,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libflv\\source\\amf3.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libflv\\source\\amf3.c",
           "flagsOrdinal": 5,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libflv\\source\\aom-av1.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libflv\\source\\aom-av1.c",
           "flagsOrdinal": 5,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libflv\\source\\flv-demuxer-script.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libflv\\source\\flv-demuxer-script.c",
           "flagsOrdinal": 5,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libflv\\source\\flv-demuxer.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libflv\\source\\flv-demuxer.c",
           "flagsOrdinal": 5,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libflv\\source\\flv-header.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libflv\\source\\flv-header.c",
           "flagsOrdinal": 5,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libflv\\source\\flv-muxer.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libflv\\source\\flv-muxer.c",
           "flagsOrdinal": 5,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libflv\\source\\flv-parser.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libflv\\source\\flv-parser.c",
           "flagsOrdinal": 5,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libflv\\source\\flv-reader.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libflv\\source\\flv-reader.c",
           "flagsOrdinal": 5,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libflv\\source\\flv-writer.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libflv\\source\\flv-writer.c",
           "flagsOrdinal": 5,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libflv\\source\\hevc-annexbtomp4.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libflv\\source\\hevc-annexbtomp4.c",
           "flagsOrdinal": 5,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libflv\\source\\hevc-mp4toannexb.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libflv\\source\\hevc-mp4toannexb.c",
           "flagsOrdinal": 5,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libflv\\source\\mp3-header.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libflv\\source\\mp3-header.c",
           "flagsOrdinal": 5,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libflv\\source\\mpeg4-aac-asc.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libflv\\source\\mpeg4-aac-asc.c",
           "flagsOrdinal": 5,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libflv\\source\\mpeg4-aac.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libflv\\source\\mpeg4-aac.c",
           "flagsOrdinal": 5,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libflv\\source\\mpeg4-annexbtomp4.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libflv\\source\\mpeg4-annexbtomp4.c",
           "flagsOrdinal": 5,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libflv\\source\\mpeg4-avc.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libflv\\source\\mpeg4-avc.c",
           "flagsOrdinal": 5,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libflv\\source\\mpeg4-hevc.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libflv\\source\\mpeg4-hevc.c",
           "flagsOrdinal": 5,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libflv\\source\\mpeg4-mp4toannexb.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libflv\\source\\mpeg4-mp4toannexb.c",
           "flagsOrdinal": 5,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libflv\\source\\opus-head.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libflv\\source\\opus-head.c",
           "flagsOrdinal": 5,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libflv\\source\\riff-acm.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libflv\\source\\riff-acm.c",
           "flagsOrdinal": 5,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\media-server\\libflv\\source\\webm-vpx.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\media-server\\libflv\\source\\webm-vpx.c",
           "flagsOrdinal": 5,
           "workingDirectoryOrdinal": 0
         }
       ],
       "headers": [],
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\x86\\libflv.a",
-      "runtimeFiles": []
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\libs_export\\x86\\libflv.a"
     },
     "zltoolkit-Debug-x86": {
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\x86\" zltoolkit",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\x86\" zltoolkit",
       "buildType": "debug",
       "toolchain": "1140156550",
       "abi": "x86",
       "artifactName": "zltoolkit",
       "files": [
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Network\\Buffer.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Network\\Buffer.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Network\\BufferSock.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Network\\BufferSock.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Network\\Server.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Network\\Server.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Network\\Session.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Network\\Session.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Network\\Socket.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Network\\Socket.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Network\\TcpClient.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Network\\TcpClient.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Network\\TcpServer.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Network\\TcpServer.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Network\\UdpServer.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Network\\UdpServer.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Network\\sockutil.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Network\\sockutil.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Poller\\EventPoller.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Poller\\EventPoller.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Poller\\Pipe.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Poller\\Pipe.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Poller\\PipeWrap.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Poller\\PipeWrap.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Poller\\SelectWrap.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Poller\\SelectWrap.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Poller\\Timer.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Poller\\Timer.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Thread\\TaskExecutor.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Thread\\TaskExecutor.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Thread\\WorkThreadPool.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Thread\\WorkThreadPool.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\CMD.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\CMD.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\File.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\File.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\MD5.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\MD5.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\NoticeCenter.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\NoticeCenter.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\SHA1.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\SHA1.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\SSLBox.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\SSLBox.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\SSLUtil.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\SSLUtil.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\SqlPool.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\SqlPool.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\base64.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\base64.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\local_time.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\local_time.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\logger.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\logger.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\mini.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\mini.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\strptime_win.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\strptime_win.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\util.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\util.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\uv_errno.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\uv_errno.cpp",
           "flagsOrdinal": 6,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\win32\\getopt.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\win32\\getopt.c",
           "flagsOrdinal": 7,
           "workingDirectoryOrdinal": 0
         }
       ],
       "headers": [
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Network\\Buffer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Network\\Buffer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Network\\BufferSock.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Network\\BufferSock.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Network\\Server.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Network\\Server.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Network\\Session.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Network\\Session.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Network\\Socket.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Network\\Socket.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Network\\TcpClient.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Network\\TcpClient.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Network\\TcpServer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Network\\TcpServer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Network\\UdpServer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Network\\UdpServer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Network\\sockutil.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Network\\sockutil.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Poller\\EventPoller.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Poller\\EventPoller.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Poller\\Pipe.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Poller\\Pipe.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Poller\\PipeWrap.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Poller\\PipeWrap.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Poller\\SelectWrap.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Poller\\SelectWrap.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Poller\\Timer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Poller\\Timer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Thread\\TaskExecutor.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Thread\\TaskExecutor.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Thread\\TaskQueue.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Thread\\TaskQueue.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Thread\\ThreadPool.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Thread\\ThreadPool.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Thread\\WorkThreadPool.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Thread\\WorkThreadPool.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Thread\\semaphore.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Thread\\semaphore.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Thread\\threadgroup.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Thread\\threadgroup.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\CMD.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\CMD.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\File.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\File.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\List.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\List.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\MD5.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\MD5.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\NoticeCenter.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\NoticeCenter.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\ResourcePool.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\ResourcePool.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\RingBuffer.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\RingBuffer.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\SHA1.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\SHA1.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\SSLBox.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\SSLBox.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\SSLUtil.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\SSLUtil.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\SpeedStatistic.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\SpeedStatistic.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\SqlConnection.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\SqlConnection.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\SqlPool.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\SqlPool.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\TimeTicker.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\TimeTicker.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\base64.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\base64.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\function_traits.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\function_traits.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\local_time.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\local_time.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\logger.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\logger.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\mini.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\mini.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\onceToken.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\onceToken.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\strptime_win.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\strptime_win.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\util.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\util.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\Util\\uv_errno.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\Util\\uv_errno.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\win32\\getopt.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\win32\\getopt.h",
           "workingDirectoryOrdinal": 0
         },
         {
-          "header": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\ZLToolKit\\src\\win32\\tailor.h",
+          "header": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\ZLToolKit\\src\\win32\\tailor.h",
           "workingDirectoryOrdinal": 0
         }
       ],
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\x86\\libzltoolkit.a",
-      "runtimeFiles": []
-    },
-    "api_tester_websocket-Debug-x86": {
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\x86\" api_tester_websocket",
-      "buildType": "debug",
-      "toolchain": "1140156550",
-      "abi": "x86",
-      "artifactName": "api_tester_websocket",
-      "files": [
-        {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\tests\\websocket.c",
-          "flagsOrdinal": 12,
-          "workingDirectoryOrdinal": 0
-        }
-      ],
-      "headers": [],
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\release\\android\\Debug\\api_tester_websocket",
-      "runtimeFiles": []
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\libs_export\\x86\\libzltoolkit.a"
     },
     "api_tester_server-Debug-x86": {
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\x86\" api_tester_server",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\x86\" api_tester_server",
       "buildType": "debug",
       "toolchain": "1140156550",
       "abi": "x86",
       "artifactName": "api_tester_server",
       "files": [
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\tests\\server.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\tests\\server.c",
           "flagsOrdinal": 12,
           "workingDirectoryOrdinal": 0
         }
       ],
       "headers": [],
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\release\\android\\Debug\\api_tester_server",
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\release\\android\\Debug\\api_tester_server",
+      "runtimeFiles": []
+    },
+    "api_tester_websocket-Debug-x86": {
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\x86\" api_tester_websocket",
+      "buildType": "debug",
+      "toolchain": "1140156550",
+      "abi": "x86",
+      "artifactName": "api_tester_websocket",
+      "files": [
+        {
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\tests\\websocket.c",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\release\\android\\Debug\\api_tester_websocket",
       "runtimeFiles": []
     },
     "api_tester_pusher-Debug-x86": {
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\x86\" api_tester_pusher",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\x86\" api_tester_pusher",
       "buildType": "debug",
       "toolchain": "1140156550",
       "abi": "x86",
       "artifactName": "api_tester_pusher",
       "files": [
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\api\\tests\\pusher.c",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\api\\tests\\pusher.c",
           "flagsOrdinal": 12,
           "workingDirectoryOrdinal": 0
         }
       ],
       "headers": [],
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\release\\android\\Debug\\api_tester_pusher",
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\release\\android\\Debug\\api_tester_pusher",
       "runtimeFiles": []
     },
     "jsoncpp-Debug-x86": {
-      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\x86\" jsoncpp",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\x86\" jsoncpp",
       "buildType": "debug",
       "toolchain": "1140156550",
       "abi": "x86",
       "artifactName": "jsoncpp",
       "files": [
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\jsoncpp\\src\\lib_json\\json_reader.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\jsoncpp\\src\\lib_json\\json_reader.cpp",
           "flagsOrdinal": 3,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\jsoncpp\\src\\lib_json\\json_value.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\jsoncpp\\src\\lib_json\\json_value.cpp",
           "flagsOrdinal": 3,
           "workingDirectoryOrdinal": 0
         },
         {
-          "src": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\3rdpart\\jsoncpp\\src\\lib_json\\json_writer.cpp",
+          "src": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\3rdpart\\jsoncpp\\src\\lib_json\\json_writer.cpp",
           "flagsOrdinal": 3,
           "workingDirectoryOrdinal": 0
         }
       ],
       "headers": [],
-      "output": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\libs_export\\x86\\libjsoncpp.a",
-      "runtimeFiles": []
+      "output": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\libs_export\\x86\\libjsoncpp.a"
     }
   },
   "toolchains": {

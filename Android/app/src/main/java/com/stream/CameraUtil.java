@@ -43,8 +43,10 @@ public class CameraUtil implements ConnectCheckerRtsp {
         this.context = context;
         //1、初始化rtsp
         serverRtsp = new RtspServerCamera1(context, this, 1936);
-        if (serverRtsp != null && serverRtsp.isRecording() || serverRtsp.prepareAudio() && serverRtsp.prepareVideo()) {
+        if (serverRtsp != null && serverRtsp.isRecording() || serverRtsp.prepareAudio() && serverRtsp.prepareVideo(1280, 720, 1024 * 1024)) {
             serverRtsp.startStream();
+        }else {
+            FLogUtil.INSTANCE.e(TAG, "init:初始化rtsp服务器异常");
         }
         //2、初始化zlm
         ZLMediaKit.startDemo(Environment.getExternalStoragePublicDirectory("").toString());
@@ -56,7 +58,7 @@ public class CameraUtil implements ConnectCheckerRtsp {
      */
     public void start(String path) {
         //3、zlm拉rtsp流
-        NetUtil.Companion.getInstance().startProxy(path,serverRtsp.getEndPointConnection());
+        NetUtil.Companion.getInstance().startProxy(path, serverRtsp.getEndPointConnection());
     }
 
     /**

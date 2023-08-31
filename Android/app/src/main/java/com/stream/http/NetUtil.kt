@@ -2,13 +2,13 @@ package com.stream.http
 
 import android.os.Environment
 import android.text.TextUtils
-import android.util.Log
 import com.drake.net.Get
 import com.drake.net.NetConfig
 import com.drake.net.okhttp.trustSSLCertificate
 import com.drake.net.time.Interval
 import com.drake.net.utils.scopeNet
 import com.google.gson.Gson
+import com.rust.sip.GB28181.gb28181.GB28181Params
 import com.stream.http.bean.ApiDataBean
 import com.stream.http.bean.GsonConverter
 import com.stream.http.bean.PushBaseListBean
@@ -313,18 +313,24 @@ class NetUtil private constructor() {
     fun startSendRtp(ssrc: String, url: String, port: Int, is_udp: Int) {
         scopeNet {
             var result = Get<ApiDataBean>(API_START_SEND_RTP) {
-                param("type", "1")
+                param("secret", "035c73f7-bb6b-4889-a715-d9eb2d1925cc")
                 param("vhost", "__defaultVhost__")
                 param("app", "live")
                 param("stream", "1234")
-                param("ssrc", ssrc)
+                param("ssrc", ssrc.toInt())
                 param("dst_url", url)
                 param("dst_port", port)
                 param("is_udp", is_udp)//0:udp 否则tcp
+//                param("src_port", GB28181Params.getLocalSIPPort())
+//                param("pt", 96)//rtp的pt（uint8_t）,不传时默认为96
+//                param("use_ps", 1)//为1时，负载为ps；为0时，为es；
+//                param("only_audio", 0)//为1时，发送音频；为0时，发送视频；
             }.await()
             FLogUtil.e(TAG, "startSendRtp 启动ps-rtp推流: ${Gson().toJson(result)}")
+            GB28181Params.setCurDevicePlayMediaState(if (result.code >= 0) 1 else 0)
         }.catch {
             FLogUtil.e(TAG, "startSendRtp 启动ps-rtp推流 异常: $it")
+            GB28181Params.setCurDevicePlayMediaState(0)
         }
     }
 
@@ -334,7 +340,7 @@ class NetUtil private constructor() {
     fun stopSendRtp(ssrc: String) {
         scopeNet {
             var result = Get<ApiDataBean>(API_STOP_SEND_RTP) {
-                param("type", "1")
+                param("secret", "035c73f7-bb6b-4889-a715-d9eb2d1925cc")
                 param("vhost", "__defaultVhost__")
                 param("app", "live")
                 param("stream", "1234")

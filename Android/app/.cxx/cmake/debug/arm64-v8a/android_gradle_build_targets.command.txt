@@ -1,7 +1,7 @@
 Executable : D:\Android\sdk\cmake\3.10.2.4988404\bin\ninja.exe
 arguments : 
 -C
-D:\Git\Android\ZLM\ZLMediaKit\Android\app\.cxx\cmake\debug\arm64-v8a
+D:\Git\Android\ZLMediaKit-Android-Stream\Android\app\.cxx\cmake\debug\arm64-v8a
 api_tester_h264_media_server
 api_tester_httpclient
 api_tester_pusher

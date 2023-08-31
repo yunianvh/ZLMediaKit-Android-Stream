@@ -1,10 +1,10 @@
 Performing C++ SOURCE FILE Test HAVE_MYSQL_OPT_EMBEDDED_CONNECTION failed with the following output:
-Change Dir: D:/Git/Android/ZLM/ZLMediaKit/Android/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeTmp
+Change Dir: D:/Git/Android/ZLMediaKit-Android-Stream/Android/app/.cxx/cmake/debug/x86/CMakeFiles/CMakeTmp
 
-Run Build Command:"D:\Android\sdk\cmake\3.10.2.4988404\bin\ninja.exe" "cmTC_5c9f9"
-[1/2] Building CXX object CMakeFiles/cmTC_5c9f9.dir/src.cxx.o
-FAILED: CMakeFiles/cmTC_5c9f9.dir/src.cxx.o 
-D:\Android\Sdk\ndk\25.1.8937393\toolchains\llvm\prebuilt\windows-x86_64\bin\clang++.exe --target=i686-none-linux-android24 --sysroot=D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot    -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -DHAVE_MYSQL_OPT_EMBEDDED_CONNECTION -fPIE -o CMakeFiles/cmTC_5c9f9.dir/src.cxx.o -c src.cxx
+Run Build Command:"D:\Android\sdk\cmake\3.10.2.4988404\bin\ninja.exe" "cmTC_6a3c8"
+[1/2] Building CXX object CMakeFiles/cmTC_6a3c8.dir/src.cxx.o
+FAILED: CMakeFiles/cmTC_6a3c8.dir/src.cxx.o 
+D:\Android\Sdk\ndk\25.1.8937393\toolchains\llvm\prebuilt\windows-x86_64\bin\clang++.exe --target=i686-none-linux-android24 --sysroot=D:/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot    -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -DHAVE_MYSQL_OPT_EMBEDDED_CONNECTION -fPIE -o CMakeFiles/cmTC_6a3c8.dir/src.cxx.o -c src.cxx
 src.cxx:1:10: fatal error: 'mysql.h' file not found
 #include <mysql.h>
          ^~~~~~~~~

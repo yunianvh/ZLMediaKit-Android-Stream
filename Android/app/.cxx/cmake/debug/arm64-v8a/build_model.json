@@ -5,9 +5,9 @@
     "environmentVariables": []
   },
   "cmake": {
-    "cmakeArtifactsBaseFolder": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
-    "cmakeServerLogFile": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\cmake_server_log.txt",
-    "cmakeWrappingBaseFolder": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cxx\\debug\\arm64-v8a",
+    "cmakeArtifactsBaseFolder": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+    "cmakeServerLogFile": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a\\cmake_server_log.txt",
+    "cmakeWrappingBaseFolder": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cxx\\debug\\arm64-v8a",
     "effectiveConfiguration": {
       "name": "traditional-android-studio-cmake-environment",
       "description": "Composite reified CMakeSettings configuration",
@@ -15,7 +15,7 @@
       "inheritEnvironments": [
         "ndk"
       ],
-      "buildRoot": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+      "buildRoot": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
       "cmakeToolchain": "D:\\Android\\sdk\\ndk\\25.1.8937393\\build\\cmake\\android.toolchain.cmake",
       "cmakeExecutable": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
       "variables": [
@@ -25,7 +25,7 @@
         },
         {
           "name": "CMAKE_FIND_ROOT_PATH",
-          "value": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\prefab\\arm64-v8a\\prefab"
+          "value": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\prefab\\arm64-v8a\\prefab"
         },
         {
           "name": "CMAKE_BUILD_TYPE",
@@ -61,7 +61,7 @@
         },
         {
           "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
-          "value": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a"
+          "value": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a"
         },
         {
           "name": "CMAKE_MAKE_PROGRAM",
@@ -98,14 +98,14 @@
       ]
     }
   },
-  "cxxBuildFolder": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+  "cxxBuildFolder": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
   "info": {
     "abi": "ARM64_V8A",
     "bitness": 64,
     "deprecated": false,
     "default": true
   },
-  "originalCxxBuildFolder": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+  "originalCxxBuildFolder": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\arm64-v8a",
   "variant": {
     "buildSystemArgumentList": [
       "-DENABLE_API\u003don",
@@ -130,12 +130,12 @@
         "ninjaExe": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
       },
       "cmakeToolchainFile": "D:\\Android\\sdk\\ndk\\25.1.8937393\\build\\cmake\\android.toolchain.cmake",
-      "cxxFolder": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx",
+      "cxxFolder": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx",
       "gradleModulePathName": ":app",
-      "intermediatesFolder": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\build\\intermediates",
-      "makeFile": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
-      "moduleBuildFile": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\build.gradle",
-      "moduleRootFolder": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app",
+      "intermediatesFolder": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\build\\intermediates",
+      "makeFile": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\src\\main\\cpp\\CMakeLists.txt",
+      "moduleBuildFile": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\build.gradle",
+      "moduleRootFolder": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app",
       "ndkDefaultAbiList": [
         "ARMEABI_V7A",
         "ARM64_V8A",
@@ -203,13 +203,13 @@
       "ndkDefaultStl": "LIBCXX_STATIC",
       "ndkVersion": "25.1.8937393",
       "project": {
-        "compilerSettingsCacheFolder": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\.cxx",
-        "cxxFolder": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\.cxx",
+        "compilerSettingsCacheFolder": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\.cxx",
+        "cxxFolder": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\.cxx",
         "ideBuildTargetAbi": "arm64-v8a,armeabi-v7a,armeabi",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
-        "rootBuildGradleFolder": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android",
+        "rootBuildGradleFolder": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android",
         "sdkFolder": "D:\\Android\\sdk",
         "isPrefabEnabled": false
       },
@@ -226,13 +226,13 @@
         "SYSTEM": {}
       }
     },
-    "objFolder": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\build\\intermediates\\cmake\\debug\\obj",
+    "objFolder": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\build\\intermediates\\cmake\\debug\\obj",
     "variantName": "debug",
     "validAbiList": [
       "ARM64_V8A"
     ],
-    "prefabDirectory": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\prefab",
+    "prefabDirectory": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\prefab",
     "prefabPackageDirectoryList": []
   },
-  "prefabFolder": "D:\\Git\\Android\\ZLM\\ZLMediaKit\\Android\\app\\.cxx\\cmake\\debug\\prefab\\arm64-v8a"
+  "prefabFolder": "D:\\Git\\Android\\ZLMediaKit-Android-Stream\\Android\\app\\.cxx\\cmake\\debug\\prefab\\arm64-v8a"
 }

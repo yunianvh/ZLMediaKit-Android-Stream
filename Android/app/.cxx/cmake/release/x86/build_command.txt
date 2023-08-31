@@ -1,8 +1,8 @@
-Executable : D:\Android\sdk\cmake\3.10.2.4988404\bin\cmake.exe
+                Executable : D:\Android\sdk\cmake\3.10.2.4988404\bin\cmake.exe
 arguments : 
--HD:\Git\Android\ZLM\ZLMediaKit\Android\app\src\main\cpp
+-HD:\Git\Android\ZLMediaKit-Android-Stream\Android\app\src\main\cpp
 -DCMAKE_CXX_FLAGS=-std=c++11 -frtti -fexceptions
--DCMAKE_FIND_ROOT_PATH=D:\Git\Android\ZLM\ZLMediaKit\Android\app\.cxx\cmake\release\prefab\x86\prefab
+-DCMAKE_FIND_ROOT_PATH=D:\Git\Android\ZLMediaKit-Android-Stream\Android\app\.cxx\cmake\release\prefab\x86\prefab
 -DCMAKE_BUILD_TYPE=Release
 -DCMAKE_TOOLCHAIN_FILE=D:\Android\sdk\ndk\25.1.8937393\build\cmake\android.toolchain.cmake
 -DANDROID_ABI=x86
@@ -11,7 +11,7 @@ arguments :
 -DCMAKE_ANDROID_ARCH_ABI=x86
 -DCMAKE_ANDROID_NDK=D:\Android\sdk\ndk\25.1.8937393
 -DCMAKE_EXPORT_COMPILE_COMMANDS=ON
--DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\Git\Android\ZLM\ZLMediaKit\Android\app\build\intermediates\cmake\release\obj\x86
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\Git\Android\ZLMediaKit-Android-Stream\Android\app\build\intermediates\cmake\release\obj\x86
 -DCMAKE_MAKE_PROGRAM=D:\Android\sdk\cmake\3.10.2.4988404\bin\ninja.exe
 -DCMAKE_SYSTEM_NAME=Android
 -DCMAKE_SYSTEM_VERSION=24
@@ -20,7 +20,7 @@ arguments :
 -DENABLE_TESTS=off
 -DENABLE_PLAYER=off
 -DENABLE_SERVER_LIB=on
--BD:\Git\Android\ZLM\ZLMediaKit\Android\app\.cxx\cmake\release\x86
+-BD:\Git\Android\ZLMediaKit-Android-Stream\Android\app\.cxx\cmake\release\x86
 -GNinja
 jvmArgs : 
 
