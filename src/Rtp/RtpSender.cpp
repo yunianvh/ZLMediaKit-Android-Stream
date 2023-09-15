@@ -32,6 +32,7 @@ RtpSender::~RtpSender() {
 
 void RtpSender::startSend(const MediaSourceEvent::SendRtpArgs &args, const function<void(uint16_t local_port, const SockException &ex)> &cb){
     _args = args;
+    TraceL << "RtpSender::startSendRtp, pt " << int(args.pt) << " ps " << args.use_ps << " audio " << args.only_audio << " is_udp " << args.is_udp;
     if (!_interface) {
         //重连时不重新创建对象
         auto lam = [this](std::shared_ptr<List<Buffer::Ptr>> list) { onFlushRtpList(std::move(list)); };
@@ -41,7 +42,7 @@ void RtpSender::startSend(const MediaSourceEvent::SendRtpArgs &args, const funct
             _interface = std::make_shared<RtpCacheRaw>(lam, atoi(args.ssrc.data()), args.pt, args.only_audio);
         }
     }
-
+    InfoL << "开始RTP连接:" << args.dst_url.data() << ":" << args.dst_port << " 是否为被动模式:" << args.passive << " 是否为UDP：" << args.is_udp;
     weak_ptr<RtpSender> weak_self = shared_from_this();
     if (args.passive) {
         // tcp被动发流模式
@@ -49,6 +50,7 @@ void RtpSender::startSend(const MediaSourceEvent::SendRtpArgs &args, const funct
         // 默认等待链接
         bool is_wait = true;
         try {
+            InfoL << "开始TCP被动模式:" << args.dst_port;
             auto tcp_listener = Socket::createSocket(_poller, false);
             if (args.src_port) {
                 //指定端口
@@ -93,11 +95,13 @@ void RtpSender::startSend(const MediaSourceEvent::SendRtpArgs &args, const funct
             }
         } catch (std::exception &ex) {
             cb(0, SockException(Err_other, ex.what()));
+            InfoL << "开始TCP被动模式 异常:" << ex.what();
             return;
         }
         return;
     }
     if (args.is_udp) {
+        InfoL << "开始UDP模式:" << args.dst_port;
         auto poller = _poller;
         WorkThreadPool::Instance().getPoller()->async([cb, args, weak_self, poller]() {
             struct sockaddr_storage addr;
@@ -106,6 +110,7 @@ void RtpSender::startSend(const MediaSourceEvent::SendRtpArgs &args, const funct
                 poller->async([args, cb]() {
                     //切回自己的线程
                     cb(0, SockException(Err_dns, StrPrinter << "dns解析域名失败:" << args.dst_url));
+                    InfoL << "开始UDP模式  dns解析域名失败:" << args.dst_url;
                 });
                 return;
             }
@@ -115,6 +120,7 @@ void RtpSender::startSend(const MediaSourceEvent::SendRtpArgs &args, const funct
                 //切回自己的线程
                 auto strong_self = weak_self.lock();
                 if (!strong_self) {
+                    InfoL << "开始UDP模式  切回自己的线程 失败:" << args.dst_url;
                     return;
                 }
                 string ifr_ip = addr.ss_family == AF_INET ? "0.0.0.0" : "::";
@@ -132,6 +138,7 @@ void RtpSender::startSend(const MediaSourceEvent::SendRtpArgs &args, const funct
                     }
                 } catch (std::exception &ex) {
                     cb(0, SockException(Err_other, ex.what()));
+                    InfoL << "开始UDP模式  dns解析成功 失败:" << ex.what();
                     return;
                 }
                 strong_self->_socket_rtp->bindPeerAddr((struct sockaddr *)&addr);
@@ -140,6 +147,7 @@ void RtpSender::startSend(const MediaSourceEvent::SendRtpArgs &args, const funct
             });
         });
     } else {
+        InfoL << "开始TCP发送模式:" << args.dst_port;
         _socket_rtp->connect(args.dst_url, args.dst_port, [cb, weak_self](const SockException &err) {
             auto strong_self = weak_self.lock();
             if (strong_self) {
@@ -148,8 +156,10 @@ void RtpSender::startSend(const MediaSourceEvent::SendRtpArgs &args, const funct
                     strong_self->onConnect();
                 }
                 cb(strong_self->_socket_rtp->get_local_port(), err);
+                InfoL << "开始TCP发送模式 链接成功:" << err;
             } else {
                 cb(0, err);
+                InfoL << "开始TCP发送模式 链接失败:" << err;
             }
         }, 5.0F, "::", args.src_port);
     }

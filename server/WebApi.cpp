@@ -1203,7 +1203,7 @@ void installWebApi() {
         args.use_ps = allArgs["use_ps"].empty() ? true : allArgs["use_ps"].as<bool>();
         args.only_audio = allArgs["only_audio"].as<bool>();
         args.udp_rtcp_timeout = allArgs["udp_rtcp_timeout"];
-        TraceL << "startSendRtp, pt " << int(args.pt) << " ps " << args.use_ps << " audio " << args.only_audio;
+        TraceL << "startSendRtp, pt " << int(args.pt) << " ps " << args.use_ps << " audio " << args.only_audio << " is_udp " << args.is_udp;
 
         src->getOwnerPoller()->async([=]() mutable {
             src->startSendRtp(args, [val, headerOut, invoker](uint16_t local_port, const SockException &ex) mutable {

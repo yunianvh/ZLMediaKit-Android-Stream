@@ -185,29 +185,31 @@ open class RtspServer(private val connectCheckerRtsp: ConnectCheckerRtsp,
     }
   }
 
-  private fun getIPAddress(): String {
-    val interfaces: List<NetworkInterface> = NetworkInterface.getNetworkInterfaces().toList()
-    val vpnInterfaces = interfaces.filter { it.displayName.contains(VPN_INTERFACE) }
-    val address: String by lazy { interfaces.findAddress().firstOrNull() ?: DEFAULT_IP }
-    return if (vpnInterfaces.isNotEmpty()) {
-      val vpnAddresses = vpnInterfaces.findAddress()
-      vpnAddresses.firstOrNull() ?: address
-    } else {
-      address
-    }
-  }
 
-  private fun List<NetworkInterface>.findAddress(): List<String?> = this.asSequence()
-    .map { addresses -> addresses.inetAddresses.asSequence() }
-    .flatten()
-    .filter { address -> !address.isLoopbackAddress }
-    .map { it.hostAddress }
-    .filter { address -> address?.contains(":") == false }
-    .toList()
 
 
   companion object {
     private const val VPN_INTERFACE = "tun"
     private const val DEFAULT_IP = "0.0.0.0"
+
+    fun getIPAddress(): String {
+      val interfaces: List<NetworkInterface> = NetworkInterface.getNetworkInterfaces().toList()
+      val vpnInterfaces = interfaces.filter { it.displayName.contains(VPN_INTERFACE) }
+      val address: String by lazy { interfaces.findAddress().firstOrNull() ?: DEFAULT_IP }
+      return if (vpnInterfaces.isNotEmpty()) {
+        val vpnAddresses = vpnInterfaces.findAddress()
+        vpnAddresses.firstOrNull() ?: address
+      } else {
+        address
+      }
+    }
+
+    private fun List<NetworkInterface>.findAddress(): List<String?> = this.asSequence()
+      .map { addresses -> addresses.inetAddresses.asSequence() }
+      .flatten()
+      .filter { address -> !address.isLoopbackAddress }
+      .map { it.hostAddress }
+      .filter { address -> address?.contains(":") == false }
+      .toList()
   }
 }

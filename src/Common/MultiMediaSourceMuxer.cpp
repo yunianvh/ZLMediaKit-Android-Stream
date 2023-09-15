@@ -240,6 +240,7 @@ void MultiMediaSourceMuxer::startSendRtp(MediaSource &sender, const MediaSourceE
     auto rtp_sender = std::make_shared<RtpSender>(getOwnerPoller(sender));
     auto sender_ptr = sender.shared_from_this();
     weak_ptr<MultiMediaSourceMuxer> weak_self = shared_from_this();
+    TraceL << "MultiMediaSourceMuxer::startSendRtp, pt " << int(args.pt) << " ps " << args.use_ps << " audio " << args.only_audio << " is_udp " << args.is_udp;
     rtp_sender->startSend(args, [args, weak_self, rtp_sender, cb, sender_ptr](uint16_t local_port, const SockException &ex) mutable {
         cb(local_port, ex);
         auto strong_self = weak_self.lock();

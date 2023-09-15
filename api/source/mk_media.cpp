@@ -255,7 +255,7 @@ API_EXPORT void API_CALL mk_media_start_send_rtp(mk_media ctx, const char *dst_u
     args.dst_port = dst_port;
     args.ssrc = ssrc;
     args.is_udp = is_udp;
-
+    TraceL << "mk_media_start_send_rtp, pt " << int(args.pt) << " ps " << args.use_ps << " audio " << args.only_audio << " is_udp " << args.is_udp;
     // sender参数无用
     auto ref = *obj;
     (*obj)->getChannel()->getOwnerPoller(MediaSource::NullMediaSource())->async([args, ref, cb, user_data]() {

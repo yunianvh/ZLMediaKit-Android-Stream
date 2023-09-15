@@ -60,5 +60,5 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
     //Serialize
     implementation 'com.github.liangjingkanji:Serialize:1.2.3'
-    implementation project(path: ':GB28181')
+//    implementation project(path: ':GB28181')
 }

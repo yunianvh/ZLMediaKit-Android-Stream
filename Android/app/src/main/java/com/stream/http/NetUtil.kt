@@ -311,6 +311,7 @@ class NetUtil private constructor() {
      * 注：这里仅提供推拉流功能，实际开发需要对接国标标准信令
      */
     fun startSendRtp(ssrc: String, url: String, port: Int, is_udp: Int) {
+        FLogUtil.e(TAG, "startSendRtp 启动ps-rtp推流 url: $url  port:$port  is_udp:${is_udp==1}  ssrc:$ssrc")
         scopeNet {
             var result = Get<ApiDataBean>(API_START_SEND_RTP) {
                 param("secret", "035c73f7-bb6b-4889-a715-d9eb2d1925cc")
