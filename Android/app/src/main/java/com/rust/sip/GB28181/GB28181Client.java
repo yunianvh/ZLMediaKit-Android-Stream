@@ -70,7 +70,7 @@ public class GB28181Client {
      * 国标模块参数初始化
      */
     public void GB28181Init() {
-        GB28181Params.setRemoteSIPServerPort(5060);//SIP服务器端口
+        GB28181Params.setRemoteSIPServerPort(28181);//SIP服务器端口
         GB28181Params.setLocalSIPIPAddress(RtspServer.Companion.getIPAddress());//本机地址
         if (isWvp) {
             GB28181Params.setSIPServerIPAddress("47.105.215.67");//SIP服务器地址
@@ -79,14 +79,20 @@ public class GB28181Client {
             GB28181Params.setLocalSIPDeviceId("34020000001100000291");
             GB28181Params.setLocalSIPMediaId("34020000001100000291");
         } else {
-            GB28181Params.setSIPServerIPAddress("125.89.145.66");//SIP服务器地址
-            GB28181Params.setRemoteSIPServerID("44180000002000010001");
-            GB28181Params.setRemoteSIPServerSerial("4418000000");
-            GB28181Params.setLocalSIPDeviceId("34020000001320000016");
-            GB28181Params.setLocalSIPMediaId("34020000001320000016");
+//            GB28181Params.setSIPServerIPAddress("125.89.145.66");//SIP服务器地址
+//            GB28181Params.setRemoteSIPServerID("44180000002000010001");
+//            GB28181Params.setRemoteSIPServerSerial("4418000000");
+//            GB28181Params.setLocalSIPDeviceId("34020000001320000016");
+//            GB28181Params.setLocalSIPMediaId("34020000001320000016");
+
+            GB28181Params.setSIPServerIPAddress("47.100.112.218");//SIP服务器地址
+            GB28181Params.setRemoteSIPServerID("10000000002000000001");
+            GB28181Params.setRemoteSIPServerSerial("1000000000");
+            GB28181Params.setLocalSIPDeviceId("10000000001321000106");
+            GB28181Params.setLocalSIPMediaId("10000000001321000106");
         }
         GB28181Params.setLocalSIPPort(5080);//本机端口
-        GB28181Params.setPassword("12345678");//密码
+        GB28181Params.setPassword("123456");//密码
 
 
         GB28181Params.setCurGBState(0);

@@ -321,7 +321,7 @@ class NetUtil private constructor() {
                 param("ssrc", ssrc.toInt())
                 param("dst_url", url)
                 param("dst_port", port)
-                param("is_udp", is_udp)//0:udp 否则tcp
+                param("is_udp", is_udp)//1:udp 0:tcp  在C中0为false，1为true
 //                param("src_port", GB28181Params.getLocalSIPPort())
 //                param("pt", 96)//rtp的pt（uint8_t）,不传时默认为96
 //                param("use_ps", 1)//为1时，负载为ps；为0时，为es；
